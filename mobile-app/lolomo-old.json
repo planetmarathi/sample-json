@@ -102,6 +102,30 @@
     {
       "id": 5,
       "category": "movie",
+      "production_poster": "https://ik.imagekit.io/planetmarathi/archive/dhating-dhingana/dhating-dhingana-portrait_Nqbv6x9-y.jpg",
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/dhating-dhingana/dhating-dhingana-portrait_Nqbv6x9-y.jpg",
+      "production_trailer":
+        "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/trailers/1/streams/master.m3u8",
+      "production_video": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/movie/streams/master.m3u8",
+      "episode_title": null,
+      "production_title": "Dhating Dhingana",
+      "production_details":
+        "Rahul (Ankush Choudhary), an eligible bachelor loves reading comics and dreams of marrying a girl whose life is full of adventures. His mother Snehal (Vandana Gupte) wants him to get married to her old friend Colonel's (Late Anand Abhyankar's) fashionable daughter Gauri (Aditi Saragdhar), who too is looking forward to marry a handsome young man. So, to make his mother happy, Rahul calls Gauri and asks her to come dressed up in modern clothes at a temple; so as to enable both of them to identify each other. But, Rahul mistakens Nisha, a pick pocket, for Gauri. Gauri is mistaken to be a relative by Devaa (Prasad Oak), who comes to Pune from Alibag for a job in a bank. At the same time, Inspector Rasal (Atul Parchure) and his lady assistant inspector (Shweta Shinde) are on a mission to arrest a gangster (Uday Sabnis), who is expected to visit a bank to deposit the stolen diamonds in the locker. It is almost at the same time a gang of five short men plan to rob the bank.",
+      "other": {
+        "duration": 20320,
+        "release_date": "2013-03-01",
+        "adult": true,
+        "ratings": 4.8,
+        "genres": ["Action", "Comedy"],
+        "cast": {
+          "director": ["Mandar Devsthali"],
+          "stars": ["Ankush Choudhary", "Prasad Oak", "Aditi Sarangdhar", "Neelam Shirke", "Atul Parchure", "Shweta Shinde", "Arun Nalavade", "Anand Abhyankar", "Vandhana Gupte", "Uday Sabnis", "Smita Talwalkar"]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "movie",
       "production_poster": "https://ik.imagekit.io/planetmarathi/archive/ek-unad-divas/ek-unaad-divas-portrait_KMYic_94hk.jpg",
       "production_card": "https://ik.imagekit.io/planetmarathi/archive/ek-unad-divas/ek-unaad-divas-portrait_KMYic_94hk.jpg",
       "production_trailer":
@@ -124,7 +148,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "category": "movie",
       "production_poster": "https://ik.imagekit.io/planetmarathi/archive/gaiir/gaiir-portrait_Ee6C2-WW3.jpg",
       "production_card": "https://ik.imagekit.io/planetmarathi/archive/gaiir/gaiir-portrait_Ee6C2-WW3.jpg",
