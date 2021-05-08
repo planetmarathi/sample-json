@@ -122,6 +122,30 @@
           "stars": ["Ankush Choudhary", "Prasad Oak", "Aditi Sarangdhar", "Neelam Shirke", "Atul Parchure", "Shweta Shinde", "Arun Nalavade", "Anand Abhyankar", "Vandhana Gupte", "Uday Sabnis", "Smita Talwalkar"]
         }
       }
+    },
+    {
+      "id": 6,
+      "category": "movie",
+      "production_poster": "https://ik.imagekit.io/planetmarathi/archive/ek-unad-divas/ek-unaad-divas-portrait_KMYic_94hk.jpg",
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/ek-unad-divas/ek-unaad-divas-portrait_KMYic_94hk.jpg",
+      "production_trailer":
+        "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/streams/master.m3u8",
+      "production_video": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/movie/streams/master.m3u8",
+      "episode_title": null,
+      "production_title": "Ek Unad Divas",
+      "production_details":
+        "Vishwas is a workaholic businessman who hasn't enjoyed his life. One day he meets his friend Govinda who tells him that one can stay happy with limited money. Vishwas rethinks on what Govinda told him and feels he has missed lot of things and decides to freak out for a day.",
+      "other": {
+        "duration": 20320,
+        "release_date": "2005-12-01",
+        "adult": true,
+        "ratings": 4.8,
+        "genres": ["Drama", "Family"],
+        "cast": {
+          "director": ["Vijay Patkar"],
+          "stars": ["Ashok Sharaf", "Sudhir Joshi", "Viju Khote", "Vijay Gokhale", "Ila Bhatey", "Ravindra Berde", "Shahaji Kale"]
+        }
+      }
     }
   ]
 }
