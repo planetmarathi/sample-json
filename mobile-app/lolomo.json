@@ -74,6 +74,30 @@
           "stars": ["Atul Kulkarni", "Deepa Parab", "Suhas Palashikar", "Amita Khopkar", "Pradeep Velankar", "Vidyadhar Joshi", "Sandesh Kulkarni"]
         }
       }
+    },
+    {
+      "id": 4,
+      "category": "movie",
+      "production_poster": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
+      "production_trailer":
+        "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Classmates/trailers/1/streams/master.m3u8",
+      "production_video": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Classmates/movie/streams/master.m3u8",
+      "episode_title": null,
+      "production_title": "Classmates",
+      "production_details":
+        "The film revolves around a group of students studying in TYBA in 1995. Packed with the spirit of youth, this film is homage to the best years of our lives. Insane fun, eternal friendships, blossoming romance, changing loyalties, life shaping decisions and a major twist at the end.",
+      "other": {
+        "duration": 20320,
+        "release_date": "2015-01-01",
+        "adult": true,
+        "ratings": 4.8,
+        "genres": ["Thriller", "Romance"],
+        "cast": {
+          "director": ["Aditya Sarpotdar"],
+          "stars": ["Ankush Choudhary", "Sonalee Kulkarni", "Sai Tamhankar", "Sachit Patil", "Siddharth Chandekar", "Pallavi Patil"]
+        }
+      }
     }
   ]
 }
