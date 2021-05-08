@@ -78,8 +78,8 @@
     {
       "id": 4,
       "category": "movie",
-      "production_poster": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
-      "production_card": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
+      "production_poster": "https://ik.imagekit.io/planetmarathi/archive/classmates/classmates-portrait_8COw6lZouu.jpg",
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/classmates/classmates-portrait_8COw6lZouu.jpg",
       "production_trailer":
         "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Classmates/trailers/1/streams/master.m3u8",
       "production_video": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Classmates/movie/streams/master.m3u8",
