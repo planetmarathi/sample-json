@@ -50,6 +50,30 @@
           "stars": ["Dilip Prabhavalkar", "Aryan Narvekar", "Chitra Navathe", "Shubhangi Gokhale", "Vijay Kenkarer"]
         }
       }
+    },
+    {
+      "id": 3,
+      "category": "movie",
+      "production_poster": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
+      "production_trailer":
+        "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/streams/master.m3u8",
+      "production_video": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/streams/master.m3u8",
+      "episode_title": null,
+      "production_title": "Chakwa",
+      "production_details":
+        "An Indian engineer from America, visits his village on an assignment. There, he gets embroiled in the mystery and suspense surrounding his ancestral house and the mango factory in the village.",
+      "other": {
+        "duration": 20320,
+        "release_date": "2004-01-01",
+        "adult": true,
+        "ratings": 4.8,
+        "genres": ["Thriller", "Psychological"],
+        "cast": {
+          "director": ["Jatin Satish Vagale"],
+          "stars": ["Atul Kulkarni", "Deepa Parab", "Suhas Palashikar", "Amita Khopkar", "Pradeep Velankar", "Vidyadhar Joshi", "Sandesh Kulkarni"]
+        }
+      }
     }
   ]
 }
