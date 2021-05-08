@@ -1,0 +1,51 @@
+{
+  "data": {
+    "heroCarousel": [
+      {
+        "imgUrl": "",
+        "videoUrl": "",
+        "titleLogo": "",
+        "rating": "",
+        "genres": ["", ""],
+        "starRating": 4.2,
+        "titleId": ""
+      }
+    ],
+    "pmList": {
+      "genres": {
+        "": {
+          "name": "",
+          "slug": "",
+          "media": [
+            {
+              "title": "",
+              "slug": "",
+              "descriptions": {
+                "short": "",
+                "long": ""
+              },
+              "starRating": 3.8,
+              "posters": {
+                "portrait": "",
+                "landscape": ""
+              },
+              "videos": {
+                "trailer": {},
+                "movie": {
+                  "streamUrl": "",
+                  "mp4Url": "",
+                  "subtitles": {
+                    "": {
+                      "language": "",
+                      "url": ""
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

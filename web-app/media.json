@@ -1,0 +1,472 @@
+{
+  "be-dune-saade-chaar": {
+    "title": "Be Dune Saade Chaar",
+    "slug": "be-dune-saade-chaar",
+    "descriptions": {
+      "short": "A man has 2 wives and one does not know about the other. The film shows the funny situations that arise with the man as a result of this.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2009-12-01",
+    "cast": {
+      "director": ["Girish Mohite"],
+      "musicDirector": ["Anand Menon", "Ajit Parab"],
+      "starCast": ["Mohan Joshi", "Saie Tamhankar", "Sanjay Narvekar", "Vandana Gupte", "Atul Parchure", "Sneha Wagh"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/be-dune-saade-chaar/be-dune-sadechar-portrait_L6sXm31Hk.jpg",
+      "landscape": "",
+      "still": ""
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/trailers/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/trailers/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/trailers/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/trailers/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/trailers/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/trailers/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  },
+  "bokya-satbande": {
+    "title": "Bokya Satbande",
+    "slug": "bokya-satbande",
+    "descriptions": {
+      "short": "The adventures of a ten-year-old boy are chronicled in this movie, based on a series of books by Dilip Prabhavalkar.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2009-04-01",
+    "cast": {
+      "director": ["Raj Pendurkar"],
+      "musicDirector": ["Shailendra Barve"],
+      "starCast": ["Dilip Prabhavalkar", "Aryan Narvekar", "Chitra Navathe", "Shubhangi Gokhale", "Vijay Kenkarer"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+      "landscape": "",
+      "still": ""
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  },
+  "chakwa": {
+    "title": "Chakwa",
+    "slug": "chakwa",
+    "descriptions": {
+      "short": "An Indian engineer from America, visits his village on an assignment. There, he gets embroiled in the mystery and suspense surrounding his ancestral house and the mango factory in the village.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2004-01-01",
+    "cast": {
+      "director": ["Jatin Satish Vagale"],
+      "musicDirector": ["Salil Kulkarni"],
+      "starCast": ["Atul Kulkarni", "Deepa Parab", "Suhas Palashikar", "Amita Khopkar", "Pradeep Velankar", "Vidyadhar Joshi", "Sandesh Kulkarni"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
+      "landscape": "",
+      "still": ""
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  },
+  "classmates": {
+    "title": "Classmates",
+    "slug": "classmates",
+    "descriptions": {
+      "short": "The film revolves around a group of students studying in TYBA in 1995. Packed with the spirit of youth, this film is homage to the best years of our lives. Insane fun, eternal friendships, blossoming romance, changing loyalties, life shaping decisions and a major twist at the end.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2015-01-01",
+    "cast": {
+      "director": ["Aditya Sarpotdar"],
+      "musicDirector": ["Amitraj", "Avinash-Vishwajeet", "Troy-Arif", "Pankaj Padghan"],
+      "starCast": ["Ankush Choudhary", "Sonalee Kulkarni", "Sai Tamhankar", "Sachit Patil", "Siddharth Chandekar", "Pallavi Patil"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
+      "landscape": "",
+      "still": ""
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  },
+  "dhating-dhingana": {
+    "title": "Dhating Dhingana",
+    "slug": "dhating-dhingana",
+    "descriptions": {
+      "short": "Rahul (Ankush Choudhary), an eligible bachelor loves reading comics and dreams of marrying a girl whose life is full of adventures. His mother Snehal (Vandana Gupte) wants him to get married to her old friend Colonel's (Late Anand Abhyankar's) fashionable daughter Gauri (Aditi Saragdhar), who too is looking forward to marry a handsome young man. So, to make his mother happy, Rahul calls Gauri and asks her to come dressed up in modern clothes at a temple; so as to enable both of them to identify each other. But, Rahul mistakens Nisha, a pick pocket, for Gauri. Gauri is mistaken to be a relative by Devaa (Prasad Oak), who comes to Pune from Alibag for a job in a bank. At the same time, Inspector Rasal (Atul Parchure) and his lady assistant inspector (Shweta Shinde) are on a mission to arrest a gangster (Uday Sabnis), who is expected to visit a bank to deposit the stolen diamonds in the locker. It is almost at the same time a gang of five short men plan to rob the bank.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2013-03-01",
+    "cast": {
+      "director": ["Mandar Devsthali"],
+      "musicDirector": ["Salil Kulkarni"],
+      "starCast": ["Ajay - Atul"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/dhating-dhingana/dhating-dhingana-portrait_Nqbv6x9-y.jpg",
+      "landscape": "",
+      "still": ""
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/trailers/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/trailers/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/trailers/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/trailers/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/trailers/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/trailers/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Dhating-Dhingana/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  },
+  "ek-unad-divas": {
+    "title": "Ek Unad Divas",
+    "slug": "ek-unad-divas",
+    "descriptions": {
+      "short": "Vishwas is a workaholic businessman who hasn't enjoyed his life. One day he meets his friend Govinda who tells him that one can stay happy with limited money. Vishwas rethinks on what Govinda told him and feels he has missed lot of things and decides to freak out for a day.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2005-12-01",
+    "cast": {
+      "director": ["Vijay Patkar"],
+      "musicDirector": ["Salil Kulkarni"],
+      "starCast": ["Ashok Sharaf", "Sudhir Joshi", "Viju Khote", "Vijay Gokhale", "Ila Bhatey", "Ravindra Berde", "Shahaji Kale"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/ek-unad-divas/ek-unaad-divas-portrait_KMYic_94hk.jpg",
+      "landscape": "",
+      "still": ""
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  },
+  "gaiir": {
+    "title": "Gaiir",
+    "slug": "gaiir",
+    "descriptions": {
+      "short": "The plot of the movie revolves around 2 people who look alike and the pursuit of the newly wed wife of one of these man to find about the other. The discovery about the same reveals a sinister plot of deception and treachery for all the parties involved.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2009-11-01",
+    "cast": {
+      "director": ["Satish Rajwade"],
+      "musicDirector": ["Avinash - Vishwajeet"],
+      "starCast": ["Sandeep Kulkarni", "Ankush Chowdhary", "Amruta Khanvilkar", "Tejaswini Pandit"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/gaiir/gaiir-portrait_Ee6C2-WW3.jpg",
+      "landscape": "",
+      "still": ""
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  },
+  "hi-porgi-kunachi": {
+    "title": "Hi Porgi Kunachi",
+    "slug": "hi-porgi-kunachi",
+    "descriptions": {
+      "short": "Rejected and shunned by 35 prospective grooms as well as her very own family respectively, overweight Mumbai-based Sushila Sawant moves out, finds a job with Hindustan Bank and starts to live independently. When loneliness overtakes her, she visits Dr. Patki's dispensary, and through an unknown sperm donor, becomes pregnant; subsequently gives birth to a baby girl, Gauri and ensures she gets a good education. Years later, Gauri has blossomed into a beautiful young woman, and has fallen in love with wealthy Anand Deshmukh. Sushila finds out, disapproves at first, but relents when Gauri threatens to elope, and visits the Deshmukhs to fix this alliance. Things do not go as planned as the later refuse to give their permission as there is no male parent involved. Sushila's attempts, with Anand and Gauri's help, to locate the biological father results in nothing but hilarious chaos - with no guarantee that they will ever be able to locate him.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2007-11-01",
+    "cast": {
+      "director": ["Girish Mohite"],
+      "musicDirector": ["Ashok Patki"],
+      "starCast": ["Nirmiti Sawant", "Arun Nalawade", "Ranjit Jog", "Kadambari Desai", "Prakash Inamdar", "Paddy Kambale", "Swati Chitnis", "Vijay Gokhale", "Sachin Pilgaonkar", "Ujwala Jog"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/he-porgi-kunachi/he-porgi-kunachi-portrait_zXc6KzKgY.jpg",
+      "landscape": "",
+      "still": ""
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/trailers/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/trailers/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/trailers/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/trailers/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/trailers/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/trailers/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Hi-Porgi-Kunachi/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  },
+  "ishhya": {
+    "title": "Ishhya",
+    "slug": "ishhya",
+    "descriptions": {
+      "short": "One find morning Vaibhav wakes up and finds himself in a weird situation. He could not understand the meaning of all the changes occurring in him over a period of time.His friend notices that these changes are the symptoms of pregnancy.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2006-09-01",
+    "cast": {
+      "director": ["Prashant Girkar"],
+      "musicDirector": ["Shrarang Dev"],
+      "starCast": ["Ankush Chowdhary", "Shweta Shinde", "Bharat Jadhav", "Kishor Nadaloskar", "Savita Malpekar", "Uday Tikekar"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/isshya/issha-portrait_sVIGrVR-Y.jpg",
+      "landscape": "",
+      "still": ""
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/trailers/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/trailers/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/trailers/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/trailers/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/trailers/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/trailers/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ishhya/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  },
+  "natsamrat": {
+    "title": "Natsamrat",
+    "slug": "natsamrat",
+    "descriptions": {
+      "short": "After he retires, an aging theatre actor and his wife begin to feel unwanted by their children.",
+      "long": ""
+    },
+    "starRating": 4.8,
+    "releaseDate": "2016-01-01",
+    "cast": {
+      "director": ["Mahesh Manjrekar"],
+      "musicDirector": ["Ajit Parab"],
+      "starCast": ["Nana Patekar", "Medha Manjrekar", "Vikram Gokhale", "Mrunmayee Deshpande", "Sunil Barve", "Ajit Parab"]
+    },
+    "posters": {
+      "portrait": "https://ik.imagekit.io/planetmarathi/archive/natsamrat/natsamrat-portrait_pAy3Y7ufGa.jpg",
+      "landscape": "https://ik.imagekit.io/planetmarathi/archive/natsamrat/natsamrat-landscape_1WdvNvH99b.jpg",
+      "still": "https://ik.imagekit.io/planetmarathi/archive/natsamrat/natsamrat-still_vw9YhZLZY.jpg"
+    },
+    "videos": {
+      "trailer": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/mp4s/master_FILE_1080_8000.mp4"
+        }
+      },
+      "movie": {
+        "streams": {
+          "hls": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/movie/streams/master.m3u8",
+          "dash": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/movie/streams/master.mpd"
+        },
+        "mp4s": {
+          "360": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/movie/mp4s/master_FILE_0360_1000.mp4",
+          "480": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/movie/mp4s/master_FILE_0480_2500.mp4",
+          "720": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/movie/mp4s/master_FILE_0720_5000.mp4",
+          "1080": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/movie/mp4s/master_FILE_1080_8000.mp4"
+        },
+        "subtitles": {}
+      }
+    }
+  }
+}

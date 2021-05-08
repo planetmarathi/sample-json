@@ -1,0 +1,169 @@
+{
+  "lomo_title": "PM Orignals",
+  "is_horizontal": false,
+  "card_aspect_ratio": "3-4",
+  "data": [
+    {
+      "id": 1,
+      "category": "movie",
+      "production_poster": "/web-static/chandramukhi_yZ6XdNVT1.jpeg",
+      "production_card": "/web-static/chandramukhi_yZ6XdNVT1.jpeg",
+      "production_trailer":
+        "https://planetmarathihls.akamaized.net/test-content/Chandramukhi/teaser.m3u8",
+      "production_video": "https://planetmarathihls.akamaized.net/test-content/Laibhari/movie.m3u8",
+      "episode_title": null,
+      "production_title": "Big Buck Bunny",
+      "production_details":
+        "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge. Licensed under the Creative Commons Attribution license http://www.bigbuckbunny.org",
+      "other": {
+        "duration": 20320,
+        "release_date": "2020-02-23",
+        "adult": true,
+        "ratings": 4.3,
+        "genres": ["Comedy", "Horror"],
+        "cast": {
+          "director": ["Adity Sarpodar"],
+          "stars": ["Amey Wagh", "Lalit Prabhakar", "Sharad Sonu"]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "series",
+      "production_poster": "/web-static/june_-phnzWQQM.jpeg",
+      "production_card": "/web-static/june_-phnzWQQM.jpeg",
+      "production_trailer": "https://planetmarathihls.akamaized.net/test-content/June/trailer.m3u8",
+      "production_video": "https://planetmarathihls.akamaized.net/test-content/Laibhari/movie.m3u8",
+      "episode_title": "Big Buck Bunny",
+      "production_title": "Elephant Dream",
+      "production_details": "The first Blender Open Movie from 2006",
+      "other": {
+        "duration": 20320,
+        "release_date": "2020-02-23",
+        "adult": true,
+        "ratings": 4.3,
+        "genres": ["Comedy", "Horror"],
+        "cast": {
+          "director": ["Adity Sarpodar"],
+          "stars": ["Amey Wagh", "Lalit Prabhakar", "Sharad Sonu"]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "movie",
+      "production_poster": "/web-static/chandramukhi_yZ6XdNVT1.jpeg",
+      "production_card": "/web-static/yari-dosti_u4S6VC-ip.webp",
+      "production_trailer":
+        "https://planetmarathihls.akamaized.net/test-content/Chandramukhi/teaser.m3u8",
+      "production_video": "https://planetmarathihls.akamaized.net/test-content/Laibhari/movie.m3u8",
+      "episode_title": null,
+      "production_title": "For Bigger Blazes",
+      "production_details":
+        "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes. For $35.Learn how to use Chromecast with HBO GO and more at google.com/chromecast.",
+      "other": {
+        "duration": 20320,
+        "release_date": "2020-02-23",
+        "adult": true,
+        "ratings": 4.3,
+        "genres": ["Comedy", "Horror"],
+        "cast": {
+          "director": ["Adity Sarpodar"],
+          "stars": ["Amey Wagh", "Lalit Prabhakar", "Sharad Sonu"]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "series",
+      "production_poster": "/web-static/june_-phnzWQQM.jpeg",
+      "production_card": "/web-static/parmpara_w0CyQDO4d.webp",
+      "production_trailer": "https://planetmarathihls.akamaized.net/test-content/June/trailer.m3u8",
+      "production_video": "https://planetmarathihls.akamaized.net/test-content/Laibhari/movie.m3u8",
+      "episode_title": "Big Buck Bunny",
+      "production_title": "For Bigger Escape",
+      "production_details":
+        "Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+      "other": {
+        "duration": 20320,
+        "release_date": "2020-02-23",
+        "adult": true,
+        "ratings": 4.3,
+        "genres": ["Comedy", "Horror"],
+        "cast": {
+          "director": ["Adity Sarpodar"],
+          "stars": ["Amey Wagh", "Lalit Prabhakar", "Sharad Sonu"]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "series",
+      "production_poster": "/web-static/june_-phnzWQQM.jpeg",
+      "production_card": "/web-static/paisa-paisa_NbVYpLGoDi.webp",
+      "production_trailer": "https://planetmarathihls.akamaized.net/test-content/June/trailer.m3u8",
+      "production_video": "https://planetmarathihls.akamaized.net/test-content/Laibhari/movie.m3u8",
+      "episode_title": "Big Buck Bunny",
+      "production_title": "For Bigger Escape",
+      "production_details":
+        "Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+      "other": {
+        "duration": 20320,
+        "release_date": "2020-02-23",
+        "adult": true,
+        "ratings": 4.3,
+        "genres": ["Comedy", "Horror"],
+        "cast": {
+          "director": ["Adity Sarpodar"],
+          "stars": ["Amey Wagh", "Lalit Prabhakar", "Sharad Sonu"]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "series",
+      "production_poster": "/web-static/june_-phnzWQQM.jpeg",
+      "production_card": "/web-static/natsamrat_bfl7_KnM4R.webp",
+      "production_trailer": "https://planetmarathihls.akamaized.net/test-content/June/trailer.m3u8",
+      "production_video": "https://planetmarathihls.akamaized.net/test-content/Laibhari/movie.m3u8",
+      "episode_title": "Big Buck Bunny",
+      "production_title": "For Bigger Escape",
+      "production_details":
+        "Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+      "other": {
+        "duration": 20320,
+        "release_date": "2020-02-23",
+        "adult": true,
+        "ratings": 4.3,
+        "genres": ["Comedy", "Horror"],
+        "cast": {
+          "director": ["Adity Sarpodar"],
+          "stars": ["Amey Wagh", "Lalit Prabhakar", "Sharad Sonu"]
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "series",
+      "production_poster": "/web-static/june_-phnzWQQM.jpeg",
+      "production_card": "/web-static/sairat_-k-dC9W8MG.webp",
+      "production_trailer": "https://planetmarathihls.akamaized.net/test-content/June/trailer.m3u8",
+      "production_video": "https://planetmarathihls.akamaized.net/test-content/Laibhari/movie.m3u8",
+      "episode_title": "Big Buck Bunny",
+      "production_title": "For Bigger Escape",
+      "production_details":
+        "Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+      "other": {
+        "duration": 20320,
+        "release_date": "2020-02-23",
+        "adult": true,
+        "ratings": 4.3,
+        "genres": ["Comedy", "Horror"],
+        "cast": {
+          "director": ["Adity Sarpodar"],
+          "stars": ["Amey Wagh", "Lalit Prabhakar", "Sharad Sonu"]
+        }
+      }
+    }
+  ]
+}
