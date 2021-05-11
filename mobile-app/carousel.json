@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "title": "June Trailer",
+      "poster": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+      "url": "https://planetmarathivod.akamaized.net/3-4-trailers/June-3-41.mp4",
+      "isVideo": true
+    },
+    {
+      "title": "Chandramukhi Trailer",
+      "poster": "https://ik.imagekit.io/planetmarathi/web-static/chandramukhi_yZ6XdNVT1.jpeg",
+      "url": "https://planetmarathivod.akamaized.net/3-4-trailers/Chandramukhi-3-41.mp4",
+      "isVideo": true
+    }
+  ]
+}
