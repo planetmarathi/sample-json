@@ -3,19 +3,19 @@
     {
       "title": "June",
       "poster": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
-      "url": "https://planetmarathihls.akamaized.net/2021-05-12-1/June/master.m3u8",
+      "url": "https://pm-archive-outputs.s3.ap-south-1.amazonaws.com/hls/june/trailers/vertical/master.m3u8",
       "isVideo": true
     },
     {
       "title": "AB aani CD",
-      "poster": "https://ik.imagekit.io/planetmarathi/web-static/chandramukhi_yZ6XdNVT1.jpeg",
-      "url": "https://planetmarathihls.akamaized.net/2021-05-12-1/AB-aani-CD/master.m3u8",
+      "poster": "https://ik.imagekit.io/planetmarathi/ab-aani-cd_6YLkzzxj6.png",
+      "url": "https://pm-archive-outputs.s3.ap-south-1.amazonaws.com/hls/ab-aani-cd/trailers/vertical/master.m3u8",
       "isVideo": true
     },
     {
       "title": "Ghosta Eka Paithanichi",
-      "poster": "https://ik.imagekit.io/planetmarathi/web-static/chandramukhi_yZ6XdNVT1.jpeg",
-      "url": "https://planetmarathihls.akamaized.net/2021-05-12-1/Ghosta-ek-Paithanichi/master.m3u8",
+      "poster": "https://ik.imagekit.io/planetmarathi/ghosta-eka-paithanichi_BLUSSDXEz.png",
+      "url": "https://pm-archive-outputs.s3.ap-south-1.amazonaws.com/hls/ghosta-eka-paithanichi/trailers/vertical/master.m3u8",
       "isVideo": true
     }
   ]
