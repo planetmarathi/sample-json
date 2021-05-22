@@ -7,11 +7,20 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2009-12-01",
     "cast": {
       "director": ["Girish Mohite"],
       "musicDirector": ["Anand Menon", "Ajit Parab"],
-      "starCast": ["Mohan Joshi", "Saie Tamhankar", "Sanjay Narvekar", "Vandana Gupte", "Atul Parchure", "Sneha Wagh"]
+      "starCast": [
+        "Mohan Joshi",
+        "Saie Tamhankar",
+        "Sanjay Narvekar",
+        "Vandana Gupte",
+        "Atul Parchure",
+        "Sneha Wagh"
+      ]
     },
     "posters": {
       "portrait": "https://ik.imagekit.io/planetmarathi/archive/be-dune-saade-chaar/be-dune-sadechar-portrait_L6sXm31Hk.jpg",
@@ -54,11 +63,19 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2009-04-01",
     "cast": {
       "director": ["Raj Pendurkar"],
       "musicDirector": ["Shailendra Barve"],
-      "starCast": ["Dilip Prabhavalkar", "Aryan Narvekar", "Chitra Navathe", "Shubhangi Gokhale", "Vijay Kenkarer"]
+      "starCast": [
+        "Dilip Prabhavalkar",
+        "Aryan Narvekar",
+        "Chitra Navathe",
+        "Shubhangi Gokhale",
+        "Vijay Kenkarer"
+      ]
     },
     "posters": {
       "portrait": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
@@ -101,11 +118,21 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2004-01-01",
     "cast": {
       "director": ["Jatin Satish Vagale"],
       "musicDirector": ["Salil Kulkarni"],
-      "starCast": ["Atul Kulkarni", "Deepa Parab", "Suhas Palashikar", "Amita Khopkar", "Pradeep Velankar", "Vidyadhar Joshi", "Sandesh Kulkarni"]
+      "starCast": [
+        "Atul Kulkarni",
+        "Deepa Parab",
+        "Suhas Palashikar",
+        "Amita Khopkar",
+        "Pradeep Velankar",
+        "Vidyadhar Joshi",
+        "Sandesh Kulkarni"
+      ]
     },
     "posters": {
       "portrait": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
@@ -148,11 +175,25 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2015-01-01",
     "cast": {
       "director": ["Aditya Sarpotdar"],
-      "musicDirector": ["Amitraj", "Avinash-Vishwajeet", "Troy-Arif", "Pankaj Padghan"],
-      "starCast": ["Ankush Choudhary", "Sonalee Kulkarni", "Sai Tamhankar", "Sachit Patil", "Siddharth Chandekar", "Pallavi Patil"]
+      "musicDirector": [
+        "Amitraj",
+        "Avinash-Vishwajeet",
+        "Troy-Arif",
+        "Pankaj Padghan"
+      ],
+      "starCast": [
+        "Ankush Choudhary",
+        "Sonalee Kulkarni",
+        "Sai Tamhankar",
+        "Sachit Patil",
+        "Siddharth Chandekar",
+        "Pallavi Patil"
+      ]
     },
     "posters": {
       "portrait": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
@@ -195,6 +236,8 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2013-03-01",
     "cast": {
       "director": ["Mandar Devsthali"],
@@ -242,11 +285,21 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2005-12-01",
     "cast": {
       "director": ["Vijay Patkar"],
       "musicDirector": ["Salil Kulkarni"],
-      "starCast": ["Ashok Sharaf", "Sudhir Joshi", "Viju Khote", "Vijay Gokhale", "Ila Bhatey", "Ravindra Berde", "Shahaji Kale"]
+      "starCast": [
+        "Ashok Sharaf",
+        "Sudhir Joshi",
+        "Viju Khote",
+        "Vijay Gokhale",
+        "Ila Bhatey",
+        "Ravindra Berde",
+        "Shahaji Kale"
+      ]
     },
     "posters": {
       "portrait": "https://ik.imagekit.io/planetmarathi/archive/ek-unad-divas/ek-unaad-divas-portrait_KMYic_94hk.jpg",
@@ -289,11 +342,18 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2009-11-01",
     "cast": {
       "director": ["Satish Rajwade"],
       "musicDirector": ["Avinash - Vishwajeet"],
-      "starCast": ["Sandeep Kulkarni", "Ankush Chowdhary", "Amruta Khanvilkar", "Tejaswini Pandit"]
+      "starCast": [
+        "Sandeep Kulkarni",
+        "Ankush Chowdhary",
+        "Amruta Khanvilkar",
+        "Tejaswini Pandit"
+      ]
     },
     "posters": {
       "portrait": "https://ik.imagekit.io/planetmarathi/archive/gaiir/gaiir-portrait_Ee6C2-WW3.jpg",
@@ -336,11 +396,24 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2007-11-01",
     "cast": {
       "director": ["Girish Mohite"],
       "musicDirector": ["Ashok Patki"],
-      "starCast": ["Nirmiti Sawant", "Arun Nalawade", "Ranjit Jog", "Kadambari Desai", "Prakash Inamdar", "Paddy Kambale", "Swati Chitnis", "Vijay Gokhale", "Sachin Pilgaonkar", "Ujwala Jog"]
+      "starCast": [
+        "Nirmiti Sawant",
+        "Arun Nalawade",
+        "Ranjit Jog",
+        "Kadambari Desai",
+        "Prakash Inamdar",
+        "Paddy Kambale",
+        "Swati Chitnis",
+        "Vijay Gokhale",
+        "Sachin Pilgaonkar",
+        "Ujwala Jog"
+      ]
     },
     "posters": {
       "portrait": "https://ik.imagekit.io/planetmarathi/archive/he-porgi-kunachi/he-porgi-kunachi-portrait_zXc6KzKgY.jpg",
@@ -383,11 +456,20 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2006-09-01",
     "cast": {
       "director": ["Prashant Girkar"],
       "musicDirector": ["Shrarang Dev"],
-      "starCast": ["Ankush Chowdhary", "Shweta Shinde", "Bharat Jadhav", "Kishor Nadaloskar", "Savita Malpekar", "Uday Tikekar"]
+      "starCast": [
+        "Ankush Chowdhary",
+        "Shweta Shinde",
+        "Bharat Jadhav",
+        "Kishor Nadaloskar",
+        "Savita Malpekar",
+        "Uday Tikekar"
+      ]
     },
     "posters": {
       "portrait": "https://ik.imagekit.io/planetmarathi/archive/isshya/issha-portrait_sVIGrVR-Y.jpg",
@@ -430,11 +512,20 @@
       "long": ""
     },
     "starRating": 4.8,
+    "adult": true,
+    "genres": ["Family", "Drama"],
     "releaseDate": "2016-01-01",
     "cast": {
       "director": ["Mahesh Manjrekar"],
       "musicDirector": ["Ajit Parab"],
-      "starCast": ["Nana Patekar", "Medha Manjrekar", "Vikram Gokhale", "Mrunmayee Deshpande", "Sunil Barve", "Ajit Parab"]
+      "starCast": [
+        "Nana Patekar",
+        "Medha Manjrekar",
+        "Vikram Gokhale",
+        "Mrunmayee Deshpande",
+        "Sunil Barve",
+        "Ajit Parab"
+      ]
     },
     "posters": {
       "portrait": "https://ik.imagekit.io/planetmarathi/archive/natsamrat/natsamrat-portrait_pAy3Y7ufGa.jpg",
