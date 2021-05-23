@@ -1,21 +1,21 @@
 {
   "data": [
     {
+      "title": "Chandramukhi",
+      "poster": "https://ik.imagekit.io/planetmarathi/web-static/chandramukhi_XVKByIRxr.jpeg",
+      "url": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_teaser_Chandramukhi.mp4",
+      "isVideo": true
+    },
+    {
       "title": "June",
       "poster": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
-      "url": "https://pm-archive-outputs.s3.ap-south-1.amazonaws.com/hls/june/trailers/vertical/master.m3u8",
+      "url": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
       "isVideo": true
     },
     {
       "title": "AB aani CD",
       "poster": "https://ik.imagekit.io/planetmarathi/ab-aani-cd_6YLkzzxj6.png",
-      "url": "https://pm-archive-outputs.s3.ap-south-1.amazonaws.com/hls/ab-aani-cd/trailers/vertical/master.m3u8",
-      "isVideo": true
-    },
-    {
-      "title": "Ghosta Eka Paithanichi",
-      "poster": "https://ik.imagekit.io/planetmarathi/ghosta-eka-paithanichi_BLUSSDXEz.png",
-      "url": "https://pm-archive-outputs.s3.ap-south-1.amazonaws.com/hls/ghosta-eka-paithanichi/trailers/vertical/master.m3u8",
+      "url": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_AB_aani_CD_Full_Trailer.mp4",
       "isVideo": true
     }
   ]
