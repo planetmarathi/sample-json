@@ -1,38 +1,36 @@
 {
-    "data": {
-        "trailerUrl": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
-        "trailerPoster": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
-        "title": "June",
-        "detail":
-            "A man has 2 wives and one does not know about the other. The film shows the funny situations that arise with the man as a result of this.",
-        "other": {
-            "duration": 20320,
-            "release_date": "2020-06-20",
-            "adult": true,
-            "ratings": 4.8,
-            "genres": ["Comedy", "Romance"],
-            "cast": {
-            "director": [
-                {
-                    "name": "Neha Pendase",
-                    "url": "/web-static/image1_CajZKigkL.jpg"
-                },
-                {
-                    "name": "Neha Pendase",
-                    "url": "/web-static/image1_CajZKigkL.jpg"
-                }
-            ],
-            "stars": [
-                {
-                    "name": "Neha Pendase",
-                    "url": "/web-static/image1_CajZKigkL.jpg"
-                },
-                {
-                    "name": "Neha Pendase",
-                    "url": "/web-static/image1_CajZKigkL.jpg"
-                }
-            ]
+    "trailerUrl": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
+    "trailerPoster": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+    "title": "June",
+    "detail":
+        "A man has 2 wives and one does not know about the other. The film shows the funny situations that arise with the man as a result of this.",
+    "other": {
+        "duration": 20320,
+        "release_date": "2020-06-20",
+        "adult": true,
+        "ratings": 4.8,
+        "genres": ["Comedy", "Romance"],
+        "cast": {
+        "director": [
+            {
+                "name": "Neha Pendase",
+                "url": "/web-static/image1_CajZKigkL.jpg"
+            },
+            {
+                "name": "Neha Pendase",
+                "url": "/web-static/image1_CajZKigkL.jpg"
             }
+        ],
+        "stars": [
+            {
+                "name": "Neha Pendase",
+                "url": "/web-static/image1_CajZKigkL.jpg"
+            },
+            {
+                "name": "Neha Pendase",
+                "url": "/web-static/image1_CajZKigkL.jpg"
+            }
+        ]
         }
     }
 }
