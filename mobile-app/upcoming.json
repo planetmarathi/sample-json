@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "title": "Be Dune Sade Chaar",
+        "detail":
+            "A man has 2 wives and one does not know about the other. The film shows the funny situations that arise with the man as a result of this.",
+        "other": {
+            "duration": 20320,
+            "release_date": "2009-12-01",
+            "adult": true,
+            "ratings": 4.8,
+            "genres": ["Comedy", "Romance"],
+            "cast": {
+            "director": ["Girish Mohite"],
+            "stars": ["Mohan Joshi", "Saie Tamhankar", "Sanjay Narvekar", "Vandana Gupte", "Atul Parchure", "Sneha Wagh"]
+            }
+        },
+        "mediaInfo": {
+            "title": "Trailer",
+            "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/trailers/1/streams/master.m3u8",
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/be-dune-saade-chaar/be-dune-sadechar-portrait_L6sXm31Hk.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Bokya Satbande",
+        "detail":
+        "The adventures of a ten-year-old boy are chronicled in this movie, based on a series of books by Dilip Prabhavalkar.",
+        "other": {
+            "duration": 20320,
+            "release_date": "2009-04-01",
+            "adult": true,
+            "ratings": 4.8,
+            "genres": ["Children"],
+            "cast": {
+                "director": ["Raj Pendurkar"],
+                "stars": ["Dilip Prabhavalkar", "Aryan Narvekar", "Chitra Navathe", "Shubhangi Gokhale", "Vijay Kenkarer"]
+            }
+            },
+        "mediaInfo": {
+            "title": "Trailer",
+            "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8",
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Chakwa",
+        "detail":
+            "An Indian engineer from America, visits his village on an assignment. There, he gets embroiled in the mystery and suspense surrounding his ancestral house and the mango factory in the village.",
+        "other": {
+            "duration": 20320,
+            "release_date": "2004-01-01",
+            "adult": true,
+            "ratings": 4.8,
+            "genres": ["Thriller", "Psychological"],
+            "cast": {
+                "director": ["Jatin Satish Vagale"],
+                "stars": ["Atul Kulkarni", "Deepa Parab", "Suhas Palashikar", "Amita Khopkar", "Pradeep Velankar", "Vidyadhar Joshi", "Sandesh Kulkarni"]
+            }
+            },
+        "mediaInfo": {
+            "title": "Trailer",
+            "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/streams/master.m3u8",
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Classmates",
+        "detail":
+        "The film revolves around a group of students studying in TYBA in 1995. Packed with the spirit of youth, this film is homage to the best years of our lives. Insane fun, eternal friendships, blossoming romance, changing loyalties, life shaping decisions and a major twist at the end.",
+        "other": {
+            "duration": 20320,
+            "release_date": "2015-01-01",
+            "adult": true,
+            "ratings": 4.8,
+            "genres": ["Thriller", "Romance"],
+            "cast": {
+                "director": ["Aditya Sarpotdar"],
+                "stars": ["Ankush Choudhary", "Sonalee Kulkarni", "Sai Tamhankar", "Sachit Patil", "Siddharth Chandekar", "Pallavi Patil"]
+            }
+            },
+        "mediaInfo": {
+            "title": "Trailer",
+            "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Classmates/trailers/1/streams/master.m3u8",
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/classmates/classmates-portrait_8COw6lZouu.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Ek Unad Divas",
+        "detail":
+        "Vishwas is a workaholic businessman who hasn't enjoyed his life. One day he meets his friend Govinda who tells him that one can stay happy with limited money. Vishwas rethinks on what Govinda told him and feels he has missed lot of things and decides to freak out for a day.",
+        "other": {
+            "duration": 20320,
+            "release_date": "2005-12-01",
+            "adult": true,
+            "ratings": 4.8,
+            "genres": ["Drama", "Family"],
+            "cast": {
+                "director": ["Vijay Patkar"],
+                "stars": ["Ashok Sharaf", "Sudhir Joshi", "Viju Khote", "Vijay Gokhale", "Ila Bhatey", "Ravindra Berde", "Shahaji Kale"]
+            }
+            },
+        "mediaInfo": {
+            "title": "Trailer",
+            "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/streams/master.m3u8",
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/classmates/classmates-portrait_8COw6lZouu.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Gaiir",
+        "detail":
+        "The plot of the movie revolves around 2 people who look alike and the pursuit of the newly wed wife of one of these man to find about the other. The discovery about the same reveals a sinister plot of deception and treachery for all the parties involved.",
+        "other": {
+            "duration": 20320,
+            "release_date": "2009-11-01",
+            "adult": true,
+            "ratings": 4.8,
+            "genres": ["Thriller", "Mystery"],
+            "cast": {
+                "director": ["Satish Rajwade"],
+                "stars": ["Sandeep Kulkarni", "Ankush Chowdhary", "Amruta Khanvilkar", "Tejaswini Pandit"]
+            }
+            },
+        "mediaInfo": {
+            "title": "Trailer",
+            "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/streams/master.m3u8",
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/gaiir/gaiir-portrait_Ee6C2-WW3.jpg"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Natsamrat",
+        "detail":
+        "After he retires, an aging theatre actor and his wife begin to feel unwanted by their children.",
+        "other": {
+            "duration": 20320,
+            "release_date": "2016-01-01",
+            "adult": true,
+            "ratings": 4.8,
+            "genres": ["Family", "Drama"],
+            "cast": {
+              "director": ["Mahesh Manjrekar"],
+              "stars": ["Nana Patekar", "Medha Manjrekar", "Vikram Gokhale", "Mrunmayee Deshpande", "Sunil Barve", "Ajit Parab"]
+            }
+          },
+        "mediaInfo": {
+            "title": "Trailer",
+            "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/streams/master.m3u8",
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/natsamrat/natsamrat-portrait_pAy3Y7ufGa.jpg"
+        }
+      }
+]

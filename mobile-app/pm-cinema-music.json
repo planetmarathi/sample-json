@@ -1,0 +1,39 @@
+{
+    "data": {
+        "lomo_title": "Music from the movie",
+        "is_horizontal": false,
+        "card_aspect_ratio": "3-4",
+        "data": [
+          {
+            "id": 1,
+            "thumbnail": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+            "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+          },
+          {
+            "id": 2,
+            "thumbnail": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+            "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+          },
+          {
+            "id": 3,
+            "thumbnail": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+            "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+          },
+          {
+            "id": 4,
+            "thumbnail": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+            "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+          },
+          {
+            "id": 5,
+            "thumbnail": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+            "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+          },
+          {
+            "id": 6,
+            "thumbnail": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+            "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+          }
+        ]
+      }
+}
