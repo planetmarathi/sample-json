@@ -9,8 +9,9 @@
         "release_date": "2020-06-20",
         "adult": true,
         "ratings": 4.8,
-        "genres": ["Comedy", "Romance"],
-        "cast": {
+        "genres": ["Comedy", "Romance"]
+    },
+    "cast": {
         "director": [
             {
                 "name": "Neha Pendase",
@@ -31,6 +32,5 @@
                 "url": "/web-static/image1_CajZKigkL.jpg"
             }
         ]
-        }
     }
 }
