@@ -18,7 +18,8 @@
         "mediaInfo": {
             "title": "Trailer",
             "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Be-Dune-Saade-Chaar/trailers/1/streams/master.m3u8",
-            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/be-dune-saade-chaar/be-dune-sadechar-portrait_L6sXm31Hk.jpg"
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/be-dune-saade-chaar/be-dune-sadechar-portrait_L6sXm31Hk.jpg",
+            "isVideo": false
         }
     },
     {
@@ -40,7 +41,8 @@
         "mediaInfo": {
             "title": "Trailer",
             "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8",
-            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg"
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+            "isVideo": false
         }
     },
     {
@@ -62,7 +64,8 @@
         "mediaInfo": {
             "title": "Trailer",
             "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Chakwa/trailers/1/streams/master.m3u8",
-            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg"
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
+            "isVideo": false
         }
     },
     {
@@ -84,7 +87,8 @@
         "mediaInfo": {
             "title": "Trailer",
             "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Classmates/trailers/1/streams/master.m3u8",
-            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/classmates/classmates-portrait_8COw6lZouu.jpg"
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/classmates/classmates-portrait_8COw6lZouu.jpg",
+            "isVideo": false
         }
     },
     {
@@ -106,7 +110,8 @@
         "mediaInfo": {
             "title": "Trailer",
             "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/streams/master.m3u8",
-            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/classmates/classmates-portrait_8COw6lZouu.jpg"
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/classmates/classmates-portrait_8COw6lZouu.jpg",
+            "isVideo": false
         }
     },
     {
@@ -128,7 +133,8 @@
         "mediaInfo": {
             "title": "Trailer",
             "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/streams/master.m3u8",
-            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/gaiir/gaiir-portrait_Ee6C2-WW3.jpg"
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/gaiir/gaiir-portrait_Ee6C2-WW3.jpg",
+            "isVideo": false
         }
       },
       {
@@ -150,7 +156,8 @@
         "mediaInfo": {
             "title": "Trailer",
             "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/streams/master.m3u8",
-            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/natsamrat/natsamrat-portrait_pAy3Y7ufGa.jpg"
+            "posterUrl": "https://ik.imagekit.io/planetmarathi/archive/natsamrat/natsamrat-portrait_pAy3Y7ufGa.jpg",
+            "isVideo": false
         }
       }
 ]
