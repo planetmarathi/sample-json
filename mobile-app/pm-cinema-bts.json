@@ -6,7 +6,7 @@
     {
       "id": 1,
       "production_card": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
-      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/streams/master.m3u8"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
     {
       "id": 3,
       "production_card": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
-      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/streams/master.m3u8"
     },
     {
       "id": 4,
@@ -26,12 +26,7 @@
     {
       "id": 5,
       "production_card": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
-      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
-    },
-    {
-      "id": 6,
-      "production_card": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
-      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/streams/master.m3u8"
     }
   ]
 }
