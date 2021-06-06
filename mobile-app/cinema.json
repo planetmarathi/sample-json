@@ -1,0 +1,167 @@
+{
+  "title": "June",
+  "description": {
+    "short": "",
+    "long": "A man has 2 wives and one does not know about the other. The film shows the funny situations that arise with the man as a result of this."
+  },
+  "other": {
+    "duration": 20320,
+    "pmReleaseDate": "2020-06-20",
+    "genres": ["Comedy", "Romance"],
+    "adult": true
+  },
+  "cast": [
+    {
+      "role": "director",
+      "people": [
+        {
+          "name": "Neha Pendase",
+          "url": "/web-static/image1_CajZKigkL.jpg"
+        },
+        {
+          "name": "Neha Pendase",
+          "url": "/web-static/image1_CajZKigkL.jpg"
+        }
+      ],
+      "order": 1
+    },
+    {
+      "role": "stars",
+      "people": [
+        {
+          "name": "Neha Pendase",
+          "url": "/web-static/image1_CajZKigkL.jpg"
+        },
+        {
+          "name": "Neha Pendase",
+          "url": "/web-static/image1_CajZKigkL.jpg"
+        }
+      ],
+      "order": 2
+    },
+    {
+      "role": "writier",
+      "people": [
+        {
+          "name": "Neha Pendase",
+          "url": "/web-static/image1_CajZKigkL.jpg"
+        },
+        {
+          "name": "Neha Pendase",
+          "url": "/web-static/image1_CajZKigkL.jpg"
+        }
+      ],
+      "order": 3
+    }
+  ],
+  "assets": {
+    "trailer": {
+      "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+      "videoUrl": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4"
+    },
+    "movie": {
+      "streams": {
+        "hls": "https://planetmarathihls.akamaized.net/test-content/Laibhari/movie.m3u8",
+        "dash": ""
+      }
+    },
+    "musicVideos": [
+      {
+        "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+        "streams": {
+          "hls": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
+          "dash": ""
+        },
+        "order": 1
+      },
+      {
+        "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+        "streams": {
+          "hls": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
+          "dash": ""
+        },
+        "order": 2
+      },
+      {
+        "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+        "streams": {
+          "hls": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
+          "dash": ""
+        },
+        "order": 3
+      },
+      {
+        "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+        "streams": {
+          "hls": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
+          "dash": ""
+        },
+        "order": 4
+      }
+    ],
+    "behindTheScenes": [
+      {
+        "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+        "streams": {
+          "hls": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
+          "dash": ""
+        },
+        "order": 1
+      },
+      {
+        "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+        "streams": {
+          "hls": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
+          "dash": ""
+        },
+        "order": 2
+      },
+      {
+        "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+        "streams": {
+          "hls": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
+          "dash": ""
+        },
+        "order": 3
+      },
+      {
+        "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+        "streams": {
+          "hls": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
+          "dash": ""
+        },
+        "order": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "starRating": 4.8,
+      "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "reviewer": "Times of India",
+      "order": 1
+    },
+    {
+      "starRating": 4.8,
+      "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "reviewer": "Times of India",
+      "order": 2
+    },
+    {
+      "starRating": 4.8,
+      "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "reviewer": "Times of India",
+      "order": 3
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Where I can watch?",
+      "answer": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "question": "How do I cancel?",
+      "answer": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+  ]
+}
