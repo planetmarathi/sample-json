@@ -2,7 +2,7 @@
   "title": "June",
   "description": {
     "short": "",
-    "long": "A man has 2 wives and one does not know about the other. The film shows the funny situations that arise with the man as a result of this."
+    "long": "June is a coming of age drama set in Aurangabad. Drawing from writer-producer Nikhil Mahajan's own childhood and of those known to him, June is a soaring portrait of two troubled people who help each other heal."
   },
   "other": {
     "duration": 20320,
@@ -15,11 +15,11 @@
       "role": "director",
       "people": [
         {
-          "name": "Neha Pendase",
+          "name": "Suhrud Godbole",
           "url": "/web-static/image1_CajZKigkL.jpg"
         },
         {
-          "name": "Neha Pendase",
+          "name": "Vaibhav Khisti",
           "url": "/web-static/image1_CajZKigkL.jpg"
         }
       ],
@@ -29,11 +29,15 @@
       "role": "stars",
       "people": [
         {
-          "name": "Neha Pendase",
+          "name": "Siddharth Menon",
           "url": "/web-static/image1_CajZKigkL.jpg"
         },
         {
           "name": "Neha Pendase",
+          "url": "/web-static/image1_CajZKigkL.jpg"
+        },
+        {
+          "name": "Kiran Karmarkar",
           "url": "/web-static/image1_CajZKigkL.jpg"
         }
       ],
@@ -43,11 +47,7 @@
       "role": "writier",
       "people": [
         {
-          "name": "Neha Pendase",
-          "url": "/web-static/image1_CajZKigkL.jpg"
-        },
-        {
-          "name": "Neha Pendase",
+          "name": "Nikhil Mahajan",
           "url": "/web-static/image1_CajZKigkL.jpg"
         }
       ],
@@ -57,7 +57,7 @@
   "assets": {
     "trailer": {
       "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
-      "videoUrl": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4"
+      "videoUrl": ""
     },
     "movie": {
       "streams": {
