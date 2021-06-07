@@ -5,9 +5,9 @@
     "long": "June is a coming of age drama set in Aurangabad. Drawing from writer-producer Nikhil Mahajan's own childhood and of those known to him, June is a soaring portrait of two troubled people who help each other heal."
   },
   "other": {
-    "duration": 20320,
+    "duration": 5580,
     "pmReleaseDate": "2020-06-20",
-    "genres": ["Comedy", "Romance"],
+    "genres": ["Drama"],
     "adult": true
   },
   "cast": [
@@ -16,11 +16,11 @@
       "people": [
         {
           "name": "Suhrud Godbole",
-          "url": "/web-static/image1_CajZKigkL.jpg"
+          "url": "/ppv-june/cast/suhrud-godbole_9wYJ4q94R.jpg"
         },
         {
           "name": "Vaibhav Khisti",
-          "url": "/web-static/image1_CajZKigkL.jpg"
+          "url": "/ppv-june/cast/vaibhav-khisti_Wdv8PSqIn.jpg"
         }
       ],
       "order": 1
