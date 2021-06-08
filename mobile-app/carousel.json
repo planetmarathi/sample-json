@@ -3,16 +3,19 @@
     {
       "title": "Chandramukhi",
       "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/chandramukhi_XVKByIRxr.jpeg",
+      "videoUrl": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_teaser_Chandramukhi.mp4",
       "order": 1
     },
     {
       "title": "June",
       "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
+      "videoUrl": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4",
       "order": 2
     },
     {
       "title": "AB aani CD",
       "imageUrl": "https://ik.imagekit.io/planetmarathi/ab-aani-cd_6YLkzzxj6.png",
+      "videoUrl": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_AB_aani_CD_Full_Trailer.mp4",
       "order": 3
     }
   ]
