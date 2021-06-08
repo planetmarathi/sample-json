@@ -57,7 +57,7 @@
   "assets": {
     "trailer": {
       "imageUrl": "https://ik.imagekit.io/planetmarathi/web-static/june_-phnzWQQM.jpeg",
-      "videoUrl": ""
+      "videoUrl": "https://planetmarathi.s3.ap-south-1.amazonaws.com/ashish_trailer_June.mp4"
     },
     "movie": {
       "streams": {
