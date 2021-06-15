@@ -1,27 +1,22 @@
 [
   {
-    "imageUrl": "https://ik.imagekit.io/planetmarathi/archive/be-dune-saade-chaar/be-dune-sadechar-portrait_L6sXm31Hk.jpg",
-    "aspectRatio": "3-4",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/talk-shows/manja-bole_9wgzvzZZp.jpg",
+    "aspectRatio": "16-9",
     "order": 1
   },
   {
-    "imageUrl": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
-    "aspectRatio": "3-4",
-    "order": 1
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/talk-shows/laibhaari-with-bhandari_4LcAWmBQE.jpg",
+    "aspectRatio": "16-9",
+    "order": 2
   },
   {
-    "imageUrl": "https://ik.imagekit.io/planetmarathi/archive/chakwa/chakwa-portrait_q04CC5pqb.jpg",
-    "aspectRatio": "3-4",
-    "order": 1
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/talk-shows/pm-talktime_D-442w4a0.jpg",
+    "aspectRatio": "16-9",
+    "order": 3
   },
   {
-    "imageUrl": "https://ik.imagekit.io/planetmarathi/archive/classmates/classmates-portrait_8COw6lZouu.jpg",
-    "aspectRatio": "3-4",
-    "order": 1
-  },
-  {
-    "imageUrl": "https://ik.imagekit.io/planetmarathi/archive/ek-unad-divas/ek-unaad-divas-portrait_KMYic_94hk.jpg",
-    "aspectRatio": "3-4",
-    "order": 1
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/talk-shows/faces-season3_MpSg057Ct.jpg",
+    "aspectRatio": "16-9",
+    "order": 4
   }
 ]
