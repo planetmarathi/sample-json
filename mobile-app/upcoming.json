@@ -1,47 +1,16 @@
 [
   {
-    "title": "Gaiir",
-    "imageUrl": "https://ik.imagekit.io/planetmarathi/archive/gaiir/gaiir-portrait_Ee6C2-WW3.jpg",
-    "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/streams/master.m3u8",
+    "title": "Shaala",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/movies/Shala_1920x1080_TUtjr7T7I.jpg",
+    "videoUrl": "",
     "description": {
       "short": "",
-      "long": "After he retires, an aging theatre actor and his wife begin to feel unwanted by their children."
+      "long": "Set in the 70's in rural India, four 9th grade kids were writing their destiny. Joshi (14) is madly in love with Shirodkar (14) a beautiful Indian looking girl. Both study in the same class. The age old question What is love anyway?"
     },
     "other": {
-      "duration": 20320,
-      "pmReleaseDate": "2009-11-01",
-      "genres": ["Thriller", "Mystery"],
-      "adult": true
-    },
-    "order": 1
-  },
-  {
-    "title": "Bokya Satbande",
-    "imageUrl": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
-    "videoUrl": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/streams/master.m3u8",
-    "description": {
-      "short": "",
-      "long": "The adventures of a ten-year-old boy are chronicled in this movie, based on a series of books by Dilip Prabhavalkar."
-    },
-    "other": {
-      "duration": 20320,
-      "pmReleaseDate": "2009-11-01",
-      "genres": ["Thriller", "Mystery"],
-      "adult": true
-    },
-    "order": 1
-  },
-  {
-    "title": "Bokya Satbande",
-    "imageUrl": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
-    "description": {
-      "short": "",
-      "long": "The adventures of a ten-year-old boy are chronicled in this movie, based on a series of books by Dilip Prabhavalkar."
-    },
-    "other": {
-      "duration": 20320,
-      "pmReleaseDate": "2009-11-01",
-      "genres": ["Thriller", "Mystery"],
+      "duration": 6480,
+      "pmReleaseDate": "2011-11-01",
+      "genres": ["Drama"],
       "adult": true
     },
     "order": 1
