@@ -1,0 +1,27 @@
+[
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music-videos/music-videos-1_gU4ZyyuH4.jpg",
+    "aspectRatio": "16-9",
+    "order": 1
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music-videos/music-videos-6_2pXEDsHqV.jpg",
+    "aspectRatio": "16-9",
+    "order": 2
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music-videos/music-videos-4_vn41Minoz.jpg",
+    "aspectRatio": "16-9",
+    "order": 3
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music-videos/music-videos-5_0Prw-zr0H.jpg",
+    "aspectRatio": "16-9",
+    "order": 4
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music-videos/music-videos-2_DqT0EA4t3.jpg",
+    "aspectRatio": "16-9",
+    "order": 5
+  }
+]

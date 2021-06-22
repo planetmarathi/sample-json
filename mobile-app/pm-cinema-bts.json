@@ -1,0 +1,32 @@
+{
+  "lomo_title": "Behind the scene",
+  "is_horizontal": true,
+  "card_aspect_ratio": "16-9",
+  "data": [
+    {
+      "id": 1,
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Natsamrat/trailers/1/streams/master.m3u8"
+    },
+    {
+      "id": 2,
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+    },
+    {
+      "id": 3,
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Gaiir/trailers/PM/1/streams/master.m3u8"
+    },
+    {
+      "id": 4,
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+    },
+    {
+      "id": 5,
+      "production_card": "https://ik.imagekit.io/planetmarathi/archive/bokya-satbande/bokya-saath-bande-portrait_8FNqLArq2F.jpg",
+      "production_url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Ek-Unad-Divas/trailers/PM/1/streams/master.m3u8"
+    }
+  ]
+}

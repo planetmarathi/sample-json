@@ -1,0 +1,27 @@
+[
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/pm-concerts/kavitecha-paan_EN7xiVjOb.jpg",
+    "aspectRatio": "16-9",
+    "order": 1
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/pm-concerts/swar-hridayantari_pz-j-HQx_.jpg",
+    "aspectRatio": "16-9",
+    "order": 2
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/pm-concerts/latasha_dZ0EEBT-5.jpg",
+    "aspectRatio": "16-9",
+    "order": 3
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/pm-concerts/navrang_hENUhS8u5.jpg",
+    "aspectRatio": "16-9",
+    "order": 4
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/pm-concerts/kathak-dhan-payo_mZzVDlbt_.jpg",
+    "aspectRatio": "16-9",
+    "order": 5
+  }
+]

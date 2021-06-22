@@ -1,0 +1,58 @@
+[
+  {
+    "title": "PM Originals",
+    "type": "orignals",
+    "genre_video": {
+      "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+    },
+    "order": 1
+  },
+  {
+    "title": "Movies",
+    "type": "movies",
+    "genre_video": {
+      "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+    },
+    "order": 2
+  },
+  {
+    "title": "Music Tracks",
+    "type": "music-tracks",
+    "genre_video": {
+      "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+    },
+    "order": 3
+  },
+  {
+    "title": "Karaoke Videos",
+    "type": "karaoke",
+    "genre_video": {
+      "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+    },
+    "order": 4
+  },
+  {
+    "title": "Music Videos",
+    "type": "music-videos",
+    "genre_video": {
+      "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+    },
+    "order": 5
+  },
+  {
+    "title": "PM Concerts",
+    "type": "live-concert",
+    "genre_video": {
+      "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+    },
+    "order": 6
+  },
+  {
+    "title": "Talkshows",
+    "type": "talk-shows",
+    "genre_video": {
+      "url": "https://pm-temp-public.s3.ap-south-1.amazonaws.com/archive-outputs/Bokya-Satbande/trailers/PM/1/streams/master.m3u8"
+    },
+    "order": 7
+  }
+]

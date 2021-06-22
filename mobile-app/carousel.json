@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "title": "Balgandharva",
+      "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/1x1/balgandharva-1x1_wB44t8Nenm.jpg",
+      "order": 1
+    },
+    {
+      "title": "Natsamrat",
+      "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/1x1/natsamrat-1x1_urUmwRMxAw.jpg",
+      "order": 2
+    },
+    {
+      "title": "Mi Shivajiraje Bhosle",
+      "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/1x1/me-shivajiraje-bhosle-1x1_JxtKJXcXi.jpg",
+      "order": 3
+    },
+    {
+      "title": "Deool",
+      "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/1x1/deool-1x1_jaoqZISli.jpg",
+      "order": 4
+    }
+  ]
+}

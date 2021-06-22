@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Shaala",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/movies/Shala_1920x1080_TUtjr7T7I.jpg",
+    "videoUrl": "",
+    "description": {
+      "short": "",
+      "long": "Set in the 70's in rural India, four 9th grade kids were writing their destiny. Joshi (14) is madly in love with Shirodkar (14) a beautiful Indian looking girl. Both study in the same class. The age old question What is love anyway?"
+    },
+    "other": {
+      "duration": 6480,
+      "pmReleaseDate": "2011-11-01",
+      "genres": ["Drama"],
+      "adult": true
+    },
+    "order": 1
+  }
+]

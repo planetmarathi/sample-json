@@ -1,0 +1,22 @@
+[
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/talk-shows/manja-bole_9wgzvzZZp.jpg",
+    "aspectRatio": "16-9",
+    "order": 1
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/talk-shows/laibhaari-with-bhandari_4LcAWmBQE.jpg",
+    "aspectRatio": "16-9",
+    "order": 2
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/talk-shows/pm-talktime_D-442w4a0.jpg",
+    "aspectRatio": "16-9",
+    "order": 3
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/talk-shows/faces-season3_MpSg057Ct.jpg",
+    "aspectRatio": "16-9",
+    "order": 4
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music/happy-music_yyYWHAqmp.jpg",
+    "aspectRatio": "1-1",
+    "order": 1
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music/dance-music_52Oc7knvR.jpg",
+    "aspectRatio": "1-1",
+    "order": 1
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music/classical-music_FUjQ4L0Iw.jpg",
+    "aspectRatio": "1-1",
+    "order": 1
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music/devotional-music_5OF2zLyIP.jpg",
+    "aspectRatio": "1-1",
+    "order": 1
+  },
+  {
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/music/romantic-music_fnKAyd-eY.jpg",
+    "aspectRatio": "1-1",
+    "order": 1
+  }
+]
