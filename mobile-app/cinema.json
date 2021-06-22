@@ -30,21 +30,21 @@
       "people": [
         {
           "name": "Siddharth Menon",
-          "url": "/web-static/image1_CajZKigkL.jpg"
+          "url": "/ppv-june/cast/siddharth-menon_1Lw08ulZC.jpg"
         },
         {
           "name": "Neha Pendase",
-          "url": "/web-static/image1_CajZKigkL.jpg"
+          "url":"/ppv-june/cast/neha-pendse_XCjopK3rp.jpg"
         },
         {
           "name": "Kiran Karmarkar",
-          "url": "/web-static/image1_CajZKigkL.jpg"
+          "url": "/ppv-june/cast/kiran-karmarkar_jmsXcYYxp.jpg"
         }
       ],
       "order": 2
     },
     {
-      "role": "writier",
+      "role": "writer",
       "people": [
         {
           "name": "Nikhil Mahajan",
@@ -52,6 +52,16 @@
         }
       ],
       "order": 3
+    },
+    {
+      "role": "music director",
+      "people": [
+        {
+          "name": "Nikhil Mahajan",
+          "url": "/ppv-june/cast/shalmali-kholgade_z-0LR5NfD.jpg"
+        }
+      ],
+      "order": 4
     }
   ],
   "assets": {
