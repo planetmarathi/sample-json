@@ -1,0 +1,82 @@
+// 20210622192807
+// https://api.pmapi.in/v1/genres
+
+[
+  {
+    "_id": "60c9a39374956f00087de969",
+    "title": "PM Originals",
+    "slug": "pm-originals",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/genres/01_Originals_Suvrat_Joshi_qgcCRhtZD2W.jpg",
+    "videoUrl": "https://d3txc6btij3mru.cloudfront.net/01-originals-suvrat-joshi/videos/master.m3u8",
+    "isActive": true,
+    "sortOrder": 1,
+    "forLoLoMo": true,
+    "__v": 0
+  }
+,  {
+    "_id": "60c9a3da74956f00087de96a",
+    "title": "Movies",
+    "slug": "movies",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/genres/02_Chitrapat_Subhod_Bhave_PzOqCjQER.jpg",
+    "videoUrl": "https://d3txc6btij3mru.cloudfront.net/02-chitrapat-subhod-bhave/videos/master.m3u8",
+    "isActive": true,
+    "sortOrder": 2,
+    "forLoLoMo": true,
+    "__v": 0
+  },
+  {
+    "_id": "60c9a41374956f00087de96b",
+    "title": "Music Videos",
+    "slug": "music-videos",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/genres/03_Music-Video_Sidharth_Jadhav_yvmHumJxNJx.jpg",
+    "videoUrl": "https://d3txc6btij3mru.cloudfront.net/03-music-videos-sidharth-jadhav/videos/master.m3u8",
+    "isActive": true,
+    "sortOrder": 3,
+    "forLoLoMo": true,
+    "__v": 0
+  },
+  {
+    "_id": "60c9a44274956f00087de96c",
+    "title": "Karaoke",
+    "slug": "karaoke",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/genres/04_Karaoke_Mrunal_Kulkarni_sFkVn9ykX.jpg",
+    "videoUrl": "https://d3txc6btij3mru.cloudfront.net/04-karaoke-mrunal-kulkarni/videos/master.m3u8",
+    "isActive": true,
+    "sortOrder": 4,
+    "forLoLoMo": true,
+    "__v": 0
+  },
+  {
+    "_id": "60c9a46f74956f00087de96d",
+    "title": "Music",
+    "slug": "music",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/genres/05_Music_Audio_Bhargavi_Chirmule_5fJBVD7Fuaa.jpg",
+    "videoUrl": "https://d3txc6btij3mru.cloudfront.net/05-music-audio-bhargavi-chirmule/videos/master.m3u8",
+    "isActive": true,
+    "sortOrder": 5,
+    "forLoLoMo": true,
+    "__v": 0
+  },
+  {
+    "_id": "60c9a4bd74956f00087de96e",
+    "title": "Concerts",
+    "slug": "concerts",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/genres/06_Concerts_Pushkar_Shrotri_SIhXbqhvl.jpg",
+    "videoUrl": "https://d3txc6btij3mru.cloudfront.net/06-concerts-pushkar-shrotri/videos/master.m3u8",
+    "isActive": true,
+    "sortOrder": 6,
+    "forLoLoMo": true,
+    "__v": 0
+  },
+  {
+    "_id": "60c9a4e474956f00087de96f",
+    "title": "Talk Shows",
+    "slug": "talk-shows",
+    "imageUrl": "https://ik.imagekit.io/planetmarathi/ppv-june/genres/07_Talk_Show_-Abhijit_Khandkekar_KCvzKB0q8vB.jpg",
+    "videoUrl": "https://d3txc6btij3mru.cloudfront.net/07-talk-shows-abhijit-khandkekar/videos/master.m3u8",
+    "isActive": true,
+    "sortOrder": 7,
+    "forLoLoMo": true,
+    "__v": 0
+  }
+]
