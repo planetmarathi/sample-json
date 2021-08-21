@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "data": {
+    "cinema": true,
+    "purchase": false,
+    "plans": true,
+    "termsOfUse": false
+  }
+}
