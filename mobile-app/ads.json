@@ -2,6 +2,15 @@
   "carousel": {
     "ads": [
       {
+        "id": 1,
+        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp-1x1_exnB-g_--.png?updatedAt=1629463963743",
+        "displayVideo": "",
+        "displayName": "Jwellers",
+        "redirectURL": "https://www.planetmarathi.com",
+        "adStartTime": "2021-08-12T18:30:00.000Z",
+        "adEndTime": "2021-08-30T23:59:00.000Z"
+      },
+      {
         "id": 2,
         "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-1x1_PBB1Vkfu7.png?updatedAt=1629465734159",
         "displayVideo": "",
@@ -36,15 +45,6 @@
   },
   "bottom-footer": {
     "ads": [
-      {
-        "id": 1,
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp-16x9_7ReqfqZQy.png?updatedAt=1629464788635",
-        "displayVideo": "",
-        "displayName": "Jwellers",
-        "redirectURL": "https://www.planetmarathi.com",
-        "adStartTime": "2021-08-12T18:30:00.000Z",
-        "adEndTime": "2021-08-30T23:59:00.000Z"
-      },
       {
         "id": 2,
         "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-footer_VivF7G4GB.png?updatedAt=1629465770179",
