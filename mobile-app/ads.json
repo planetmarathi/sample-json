@@ -3,19 +3,27 @@
     "ads": [
       {
         "id": 1,
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp-1x1_exnB-g_--.png?updatedAt=1629463963743",
+        "ad": "Jagganath Jwellers",
+        "displayImage": "https://jgpednekarjewellers.in/home;pc=60ade32c21e6d88665171f2e",
         "displayVideo": "",
-        "displayName": "Jwellers",
+        "displayName": {
+          "en": "Jwellers",
+          "mr": "जगनाथ ज्वेलर्स"
+        },
         "redirectURL": "https://www.planetmarathi.com",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       },
       {
         "id": 2,
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-1x1_PBB1Vkfu7.png?updatedAt=1629465734159",
+        "ad": "Ram Bandhu",
+        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-1x1_g2IOf1LOw.png?updatedAt=1629789920512",
         "displayVideo": "",
-        "displayName": "Masala",
-        "redirectURL": "https://www.planetmarathi.com",
+        "displayName": {
+          "en": "Ram Bandhu",
+          "mr": "राम बंधू"
+        },
+        "redirectURL": "https://bit.ly/3yEGKNH",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       }
@@ -25,19 +33,27 @@
     "ads": [
       {
         "id": 1,
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/JGP-3x1-edited_TvtV3hkLB.jpg?updatedAt=1629708364366",
+        "ad": "Jagganath Jwellers",
+        "displayImage": "https://jgpednekarjewellers.in/products/category/5f6741e8ad63537c72923b6b",
         "displayVideo": "",
-        "displayName": "Jwellers",
+        "displayName": {
+          "en": "Jagganath Jwellers",
+          "mr": "जगनाथ ज्वेलर्स"
+        },
         "redirectURL": "https://www.planetmarathi.com",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       },
       {
         "id": 2,
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-6x1-edited_f7fD4rE9H.png?updatedAt=1629708264495",
+        "ad": "Ram Bandhu",
+        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-3x1_EFLktEP4c.png?updatedAt=1629789920071",
         "displayVideo": "",
-        "displayName": "Masala",
-        "redirectURL": "https://www.planetmarathi.com",
+        "displayName": {
+          "en": "Ram Bandhu",
+          "mr": "राम बंधू"
+        },
+        "redirectURL": "https://bit.ly/3yEGKNH",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       }
@@ -46,36 +62,34 @@
   "bottom-footer": {
     "ads": [
       {
-        "id": 2,
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-6x1-edited_f7fD4rE9H.png?updatedAt=1629708264495",
-        "displayVideo": "",
-        "displayName": "Masala",
-        "redirectURL": "https://www.planetmarathi.com",
-        "adStartTime": "2021-08-12T18:30:00.000Z",
-        "adEndTime": "2021-08-30T23:59:00.000Z"
-      }
-    ]
-  },
-  "production-landing": {
-    "ads": [
-      {
         "id": 1,
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp-16x9_7ReqfqZQy.png?updatedAt=1629464788635",
+        "ad": "Jagganath Jwellers",
+        "displayImage": "https://jgpednekarjewellers.in/home;pc=60ade32c21e6d88665171f2e",
         "displayVideo": "",
-        "displayName": "Jwellers",
+        "displayName": {
+          "en": "Jagganath Jwellers",
+          "mr": "जगनाथ ज्वेलर्स"
+        },
         "redirectURL": "https://www.planetmarathi.com",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       },
       {
         "id": 2,
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-6x1-edited_f7fD4rE9H.png?updatedAt=1629708264495",
+        "ad": "Ram Bandhu",
+        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-6x1_zIKm6uN-p.png?updatedAt=1629789918472",
         "displayVideo": "",
-        "displayName": "Masala",
-        "redirectURL": "https://www.planetmarathi.com",
+        "displayName": {
+          "en": "Ram Bandhu",
+          "mr": "राम बंधू"
+        },
+        "redirectURL": "https://bit.ly/3yEGKNH",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       }
     ]
+  },
+  "production-landing": {
+    "ads": []
   }
 }

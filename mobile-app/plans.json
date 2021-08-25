@@ -8,10 +8,10 @@
         "currencyCode": "₹",
         "validFor": 3,
         "benifits": [
-          "Watch All Orignals",
-          "Watch All Movies",
-          "No Ads",
-          "Valid till 3 Months"
+          { "en": "Watch All Orignals", "mr": "सर्व ओरिग्नल्स पहा" },
+          { "en": "Watch All Movies", "mr": "सर्व चित्रपट पहा" },
+          { "en": "No Ads", "mr": "जाहिरात नाही" },
+          { "en": "Valid till 3 Months", "mr": "3 महिन्यांपर्यंत वैध" }
         ]
       },
       {
@@ -21,10 +21,10 @@
         "currencyCode": "₹",
         "validFor": 12,
         "benifits": [
-          "Watch All Orignals",
-          "Watch All Movies",
-          "No Ads",
-          "Valid till 12 Months"
+          { "en": "Watch All Orignals", "mr": "सर्व ओरिग्नल्स पहा" },
+          { "en": "Watch All Movies", "mr": "सर्व चित्रपट पहा" },
+          { "en": "No Ads", "mr": "जाहिरात नाही" },
+          { "en": "Valid till 12 Months", "mr": "12 महिन्यांपर्यंत वैध" }
         ]
       }
     ],
@@ -36,10 +36,10 @@
         "currencyCode": "$",
         "validFor": 3,
         "benifits": [
-          "Watch All Orignals",
-          "Watch All Movies",
-          "No Ads",
-          "Valid till 3 Months"
+          { "en": "Watch All Orignals", "mr": "सर्व ओरिग्नल्स पहा" },
+          { "en": "Watch All Movies", "mr": "सर्व चित्रपट पहा" },
+          { "en": "No Ads", "mr": "जाहिरात नाही" },
+          { "en": "Valid till 3 Months", "mr": "3 महिन्यांपर्यंत वैध" }
         ]
       },
       {
@@ -49,10 +49,10 @@
         "currencyCode": "$",
         "validFor": 12,
         "benifits": [
-          "Watch All Orignals",
-          "Watch All Movies",
-          "No Ads",
-          "Valid till 12 Months"
+          { "en": "Watch All Orignals", "mr": "सर्व ओरिग्नल्स पहा" },
+          { "en": "Watch All Movies", "mr": "सर्व चित्रपट पहा" },
+          { "en": "No Ads", "mr": "जाहिरात नाही" },
+          { "en": "Valid till 3 Months", "mr": "12 महिन्यांपर्यंत वैध" }
         ]
       }
     ]
