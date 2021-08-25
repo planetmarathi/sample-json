@@ -4,7 +4,7 @@
       {
         "id": 1,
         "ad": "Jagganath Jwellers",
-        "displayImage": "https://jgpednekarjewellers.in/home;pc=60ade32c21e6d88665171f2e",
+        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp-1x1_exnB-g_--.png?updatedAt=1629463963743",
         "displayVideo": "",
         "displayName": {
           "en": "Jwellers",
@@ -34,7 +34,7 @@
       {
         "id": 1,
         "ad": "Jagganath Jwellers",
-        "displayImage": "https://jgpednekarjewellers.in/products/category/5f6741e8ad63537c72923b6b",
+        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/JGP-3x1-edited_TvtV3hkLB.jpg?updatedAt=1629708364366",
         "displayVideo": "",
         "displayName": {
           "en": "Jagganath Jwellers",
@@ -61,19 +61,6 @@
   },
   "bottom-footer": {
     "ads": [
-      {
-        "id": 1,
-        "ad": "Jagganath Jwellers",
-        "displayImage": "https://jgpednekarjewellers.in/home;pc=60ade32c21e6d88665171f2e",
-        "displayVideo": "",
-        "displayName": {
-          "en": "Jagganath Jwellers",
-          "mr": "जगनाथ ज्वेलर्स"
-        },
-        "redirectURL": "https://www.planetmarathi.com",
-        "adStartTime": "2021-08-12T18:30:00.000Z",
-        "adEndTime": "2021-08-30T23:59:00.000Z"
-      },
       {
         "id": 2,
         "ad": "Ram Bandhu",
