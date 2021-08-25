@@ -1,0 +1,60 @@
+{
+  "data": {
+    "IND": [
+      {
+        "price": 199,
+        "discountedPrice": 49,
+        "currency": "INR",
+        "currencyCode": "₹",
+        "validFor": 3,
+        "benifits": [
+          "Watch All Orignals",
+          "Watch All Movies",
+          "No Ads",
+          "Valid till 3 Months"
+        ]
+      },
+      {
+        "price": 499,
+        "discountedPrice": 199,
+        "currency": "INR",
+        "currencyCode": "₹",
+        "validFor": 12,
+        "benifits": [
+          "Watch All Orignals",
+          "Watch All Movies",
+          "No Ads",
+          "Valid till 12 Months"
+        ]
+      }
+    ],
+    "OUT-OF-IND": [
+      {
+        "price": 149,
+        "discountedPrice": 49,
+        "currency": "USD",
+        "currencyCode": "$",
+        "validFor": 3,
+        "benifits": [
+          "Watch All Orignals",
+          "Watch All Movies",
+          "No Ads",
+          "Valid till 3 Months"
+        ]
+      },
+      {
+        "price": 299,
+        "discountedPrice": 99,
+        "currency": "USD",
+        "currencyCode": "$",
+        "validFor": 12,
+        "benifits": [
+          "Watch All Orignals",
+          "Watch All Movies",
+          "No Ads",
+          "Valid till 12 Months"
+        ]
+      }
+    ]
+  }
+}
