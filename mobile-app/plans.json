@@ -11,9 +11,11 @@
           { "en": "Watch All Originals", "mr": "सर्व ओरिग्नल्स पहा" },
           { "en": "Watch All Library Movies", "mr": "सर्व लायब्ररी चित्रपट पहा" },
           { "en": "No Ads", "mr": "जाहिरात रहित" },
+          { "en": "Full 1080p HD Quality", "mr": "1080p HD मध्ये पहा" },
+          { "en": "Enjoy on Android/iOS/web", "mr": "अँड्रॉइड, iOS, वेबसाइट वर पहा" },
           { "en": "Valid till 12 Months", "mr": "12 महिन्यांपर्यंत वैध" }
         ]
-      },
+      }
    
     ],
     "OUT-OF-IND": [
@@ -25,11 +27,13 @@
         "validFor": 3,
         "benifits": [
           { "en": "Watch All Originals", "mr": "सर्व ओरिग्नल्स पहा" },
-          { "en": "Watch All Movies", "mr": "सर्व लायब्ररी चित्रपट पहा" },
+          { "en": "Watch All Library Movies", "mr": "सर्व लायब्ररी चित्रपट पहा" },
           { "en": "No Ads", "mr": "जाहिरात रहित" },
+          { "en": "Full 1080p HD Quality", "mr": "1080p HD मध्ये पहा" },
+          { "en": "Enjoy on Android/iOS/web", "mr": "अँड्रॉइड, iOS, वेबसाइट वर पहा" },
           { "en": "Valid till 12 Months", "mr": "12 महिन्यांपर्यंत वैध" }
         ]
-      },
+      }
   
     ]
   }
