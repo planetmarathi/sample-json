@@ -1,40 +1,120 @@
 {
   "data": {
-    "IND": [
-      {
-        "price": 365,
-        "discountedPrice": 199,
-        "currency": "INR",
-        "currencyCode": "₹",
-        "validFor": 3,
-        "benifits": [
-          { "en": "Watch All Originals", "mr": "सर्व ओरिग्नल्स पहा" },
-          { "en": "Watch All Library Movies", "mr": "सर्व लायब्ररी चित्रपट पहा" },
-          { "en": "No Ads", "mr": "जाहिरात रहित" },
-          { "en": "Full 1080p HD Quality", "mr": "1080p HD मध्ये पहा" },
-          { "en": "Enjoy on Android/iOS/web", "mr": "अँड्रॉइड, iOS, वेबसाइट वर पहा" },
-          { "en": "Valid till 12 Months", "mr": "12 महिन्यांपर्यंत वैध" }
-        ]
-      }
-   
-    ],
-    "OUT-OF-IND": [
-      {
-        "price": 9.99,
-        "discountedPrice": 5.99,
-        "currency": "USD",
-        "currencyCode": "$",
-        "validFor": 3,
-        "benifits": [
-          { "en": "Watch All Originals", "mr": "सर्व ओरिग्नल्स पहा" },
-          { "en": "Watch All Library Movies", "mr": "सर्व लायब्ररी चित्रपट पहा" },
-          { "en": "No Ads", "mr": "जाहिरात रहित" },
-          { "en": "Full 1080p HD Quality", "mr": "1080p HD मध्ये पहा" },
-          { "en": "Enjoy on Android/iOS/web", "mr": "अँड्रॉइड, iOS, वेबसाइट वर पहा" },
-          { "en": "Valid till 12 Months", "mr": "12 महिन्यांपर्यंत वैध" }
-        ]
-      }
-  
-    ]
+    "plans": {
+      "ind": [
+        {
+          "price": 365,
+          "discountedPrice": 199,
+          "currency": "INR",
+          "currencyCode": "₹",
+          "validFor": 12,
+          "benifits": [
+            { "en": "Watch All Originals", "mr": "सर्व ओरिग्नल्स पहा" },
+            {
+              "en": "Watch All Library Movies",
+              "mr": "सर्व लायब्ररी चित्रपट पहा"
+            },
+            { "en": "No Ads", "mr": "जाहिरात रहित" },
+            { "en": "Full 1080p HD Quality", "mr": "1080p HD मध्ये पहा" },
+            {
+              "en": "Enjoy on Android/iOS/web",
+              "mr": "अँड्रॉइड, iOS, वेबसाइट वर पहा"
+            },
+            { "en": "Valid till 12 Months", "mr": "12 महिन्यांपर्यंत वैध" }
+          ]
+        }
+      ],
+      "outOfIndia": [
+        {
+          "price": 9.99,
+          "discountedPrice": 5.99,
+          "currency": "USD",
+          "currencyCode": "$",
+          "validFor": 12,
+          "benifits": [
+            { "en": "Watch All Originals", "mr": "सर्व ओरिग्नल्स पहा" },
+            {
+              "en": "Watch All Library Movies",
+              "mr": "सर्व लायब्ररी चित्रपट पहा"
+            },
+            { "en": "No Ads", "mr": "जाहिरात रहित" },
+            { "en": "Full 1080p HD Quality", "mr": "1080p HD मध्ये पहा" },
+            {
+              "en": "Enjoy on Android/iOS/web",
+              "mr": "अँड्रॉइड, iOS, वेबसाइट वर पहा"
+            },
+            { "en": "Valid till 12 Months", "mr": "12 महिन्यांपर्यंत वैध" }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": {
+        "en": "Common Questions Answered",
+        "mr": "तुमच्या प्रश्नांची उत्तरे"
+      },
+      "qa": [
+        {
+          "question": {
+            "en": "How do I pay? What payment options do I have?",
+            "mr": "मी प्रीमियम प्लॅन साठी पैसे कसे भरू शकतो?"
+          },
+          "answer": {
+            "en": "For our Indian users, you can pay using your credit/debit cards, net banking, UPI, wallets. For our overseas users, you can pay with your Visa/MasterCard credit cards.",
+            "mr": "जर तुम्ही भारतात असाल तर तुम्ही वापरू शकता तुमचे क्रेडिट किंव्हा डेबिट कार्ड, बँक खाते, UPI, इत्यादी. जर तुम्ही भारताबाहेर रहात असाल, तर तुम्ही वापरू शकता तुमचे क्रेडिट किंव्हा डेबिट कार्ड. "
+          }
+        },
+        {
+          "question": {
+            "en": "What exactly can I watch after paying?",
+            "mr": "पैसे भरल्यावर मी नक्की काय पाहू शकतो?"
+          },
+          "answer": {
+            "en": "You can watch all the premium content on Planet Marathi when you pay for any plan. The only difference is that the annual plan does not show you any advertisements AND it gives you a huge discount over the monthly plan.",
+            "mr": "तुम्ही आमचे संपूर्ण प्रीमियम कन्टेन्ट पाहू शकता. फरक फक्त एवढा आहे कि वार्षिक प्लॅन मध्ये तुम्हाला कुठेही जाहिरात दिसणार नाही, मासिक प्लॅन मध्ये तुम्हाला कन्टेन्ट तर सगळं दिसेल, पण थोड्या जाहिरातीही दिसू शकतात."
+          }
+        },
+        {
+          "question": {
+            "en": "Do I need to pay every month? Does the payment happen automatically?",
+            "mr": "मला प्रत्येक महिन्याला पैसे भरायला लागतील का? आणि पैसे आपोआप घेतले जातील का?"
+          },
+          "answer": {
+            "en": "For our Indian patrons, you have to pay manually every month/year. For our overseas members, our payment gateway will automatically charge you based on your plan (monthly/annually).",
+            "mr": "भारतातनं पैसे भरणाऱ्यांना तुमच्या प्लॅन प्रमाणे स्वताहा दर महिन्याला/वर्षाला पैसे भरावे लागतील (RBI च्या नियमानुसार आम्ही ऑटोमॅटिक पैसे घेऊ शकत नाही). भारताबाहेरच्या लोकांचे ऑटोमॅटिक पैसे घेतले जातील, तुमच्या प्लॅन प्रमाणे."
+          }
+        },
+        {
+          "question": {
+            "en": "How do I stop payments?",
+            "mr": "माझा प्लॅन बंद कसा करायचा?"
+          },
+          "answer": {
+            "en": "For Indian users, you don't need to do anything, once your access time gets over, you won't be charged again until you yourself make a payment. For overseas users, you can cancel your recurring subscription based on where/how you paid. If you paid using Google Play or Apple Pay, you need to cancel it from there, in those respective stores. If you paid with Stripe, you can drop us a mail at support@planetmarathi.com before your next charge happens.",
+            "mr": "भारतातून पैसे भरणार्यांना काहीच विशेष करायचे नाहीये. तुमच्या प्लॅनची वैधता संपली कि तुमचा प्लॅन बंद होईल. भारताबाहेरील लोकांना आम्हाला फक्त एक ई-मेल करायला लागेल ह्या ID वर - support@planetmarathi.com वर."
+          }
+        },
+        {
+          "question": {
+            "en": "What is your refund policy?",
+            "mr": "तुमची रिफंड प्रक्रिया काय आहे?"
+          },
+          "answer": {
+            "en": "Due to the digital nature of our content, we do not offer any refunds under any circumstances. For more information, please check our refund policy.",
+            "mr": "आमचे सर्व कन्टेन्ट डिजिटल असल्यामुळे तुम्हाला कुठल्याही परिस्थितीत रिफंड मिळू शकत नाही. अधिक माहिती साठी आमची रिफंड पोलिसी पहा."
+          }
+        },
+        {
+          "question": {
+            "en": "How can I contact Planet Marathi?",
+            "mr": "मी तुमच्याशी संपर्क कसा करू शकतो?"
+          },
+          "answer": {
+            "en": "In More option by clicking on Contact Us.",
+            "mr": "अधिक ऑपशन वर क्लिक करून `आमच्याशी संपर्क साधा` ऑपशन द्वारे तुम्ही आम्हाला कॉन्टॅक्ट करू शकाल."
+          }
+        }
+      ]
+    }
   }
 }
