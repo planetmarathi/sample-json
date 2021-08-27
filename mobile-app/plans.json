@@ -2,59 +2,35 @@
   "data": {
     "IND": [
       {
-        "price": 199,
-        "discountedPrice": 49,
-        "currency": "INR",
-        "currencyCode": "₹",
-        "validFor": 3,
-        "benifits": [
-          { "en": "Watch All Orignals", "mr": "सर्व ओरिग्नल्स पहा" },
-          { "en": "Watch All Movies", "mr": "सर्व चित्रपट पहा" },
-          { "en": "No Ads", "mr": "जाहिरात नाही" },
-          { "en": "Valid till 3 Months", "mr": "3 महिन्यांपर्यंत वैध" }
-        ]
-      },
-      {
-        "price": 499,
+        "price": 365,
         "discountedPrice": 199,
         "currency": "INR",
         "currencyCode": "₹",
-        "validFor": 12,
+        "validFor": 3,
         "benifits": [
-          { "en": "Watch All Orignals", "mr": "सर्व ओरिग्नल्स पहा" },
-          { "en": "Watch All Movies", "mr": "सर्व चित्रपट पहा" },
-          { "en": "No Ads", "mr": "जाहिरात नाही" },
+          { "en": "Watch All Originals", "mr": "सर्व ओरिग्नल्स पहा" },
+          { "en": "Watch All Library Movies", "mr": "सर्व लायब्ररी चित्रपट पहा" },
+          { "en": "No Ads", "mr": "जाहिरात रहित" },
           { "en": "Valid till 12 Months", "mr": "12 महिन्यांपर्यंत वैध" }
         ]
-      }
+      },
+   
     ],
     "OUT-OF-IND": [
       {
-        "price": 149,
-        "discountedPrice": 49,
+        "price": 9.99,
+        "discountedPrice": 5.99,
         "currency": "USD",
         "currencyCode": "$",
         "validFor": 3,
         "benifits": [
-          { "en": "Watch All Orignals", "mr": "सर्व ओरिग्नल्स पहा" },
-          { "en": "Watch All Movies", "mr": "सर्व चित्रपट पहा" },
-          { "en": "No Ads", "mr": "जाहिरात नाही" },
-          { "en": "Valid till 3 Months", "mr": "3 महिन्यांपर्यंत वैध" }
+          { "en": "Watch All Originals", "mr": "सर्व ओरिग्नल्स पहा" },
+          { "en": "Watch All Movies", "mr": "सर्व लायब्ररी चित्रपट पहा" },
+          { "en": "No Ads", "mr": "जाहिरात रहित" },
+          { "en": "Valid till 12 Months", "mr": "12 महिन्यांपर्यंत वैध" }
         ]
       },
-      {
-        "price": 299,
-        "discountedPrice": 99,
-        "currency": "USD",
-        "currencyCode": "$",
-        "validFor": 12,
-        "benifits": [
-          { "en": "Watch All Orignals", "mr": "सर्व ओरिग्नल्स पहा" },
-          { "en": "Watch All Movies", "mr": "सर्व चित्रपट पहा" },
-          { "en": "No Ads", "mr": "जाहिरात नाही" },
-          { "en": "Valid till 3 Months", "mr": "12 महिन्यांपर्यंत वैध" }
-        ]
-      }
+  
     ]
   }
 }
