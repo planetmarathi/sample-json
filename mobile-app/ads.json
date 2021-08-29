@@ -3,27 +3,49 @@
     "ads": [
       {
         "id": 1,
-        "ad": "Jagganath Jwellers",
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp-1x1_exnB-g_--.png?updatedAt=1629463963743",
+        "ad": "Jagganath Jewellers",
+        "displayImage": {
+          "1:1": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp/jgp-1x1_tyBXqtx2M.png?updatedAt=1629980331619",
+          "16:9": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp/jgp-16x9_zzB41E_fW.png?updatedAt=1629980333885"
+        },
         "displayVideo": "",
         "displayName": {
-          "en": "Jwellers",
-          "mr": "जगनाथ ज्वेलर्स"
+          "en": "Jewellers",
+          "mr": "जगन्नाथ गंगाराम पेडणेकर ज्वेलर्स"
         },
-        "redirectURL": "https://www.planetmarathi.com",
+        "redirectURL": "https://jgpednekarjewellers.in/products/category/5f6741e8ad63537c72923b6b",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       },
       {
         "id": 2,
         "ad": "Ram Bandhu",
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-1x1_g2IOf1LOw.png?updatedAt=1629789920512",
+        "displayImage": {
+          "1:1": "https://ik.imagekit.io/planetmarathi/platform-partners/ram_bandhu/ram-bandhu-1x1_EfEEAFcuG.png?updatedAt=1629980356016",
+          "16:9": "https://ik.imagekit.io/planetmarathi/platform-partners/ram_bandhu/ram-bandhu-16x9_HQSrnF4JY4.png?updatedAt=1629980357575"
+        },
         "displayVideo": "",
         "displayName": {
           "en": "Ram Bandhu",
           "mr": "राम बंधू"
         },
         "redirectURL": "https://bit.ly/3yEGKNH",
+        "adStartTime": "2021-08-12T18:30:00.000Z",
+        "adEndTime": "2021-08-30T23:59:00.000Z"
+      },
+      {
+        "id": 3,
+        "ad": "Chitale",
+        "displayImage": {
+          "1:1": "https://ik.imagekit.io/planetmarathi/platform-partners/chitale/chitale-1x1_gn9-1If_O.png?updatedAt=1629980386273",
+          "16:9": "https://ik.imagekit.io/planetmarathi/platform-partners/chitale/chitale-16x9__906Rx3FZg.png?updatedAt=1629980387167"
+        },
+        "displayVideo": "",
+        "displayName": {
+          "en": "Chitale",
+          "mr": "चितळे"
+        },
+        "redirectURL": "https://chitalexpress.com/locations/",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       }
@@ -33,27 +55,42 @@
     "ads": [
       {
         "id": 1,
-        "ad": "Jagganath Jwellers",
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/JGP-3x1-edited_TvtV3hkLB.jpg?updatedAt=1629708364366",
-        "displayVideo": "",
-        "displayName": {
-          "en": "Jagganath Jwellers",
-          "mr": "जगनाथ ज्वेलर्स"
+        "ad": "Jagganath Jewellers",
+        "displayImage": {
+          "3:1": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp/JGP-3x1-edited_Yu336lmdL8.jpg?updatedAt=1629980332306"
         },
-        "redirectURL": "https://www.planetmarathi.com",
+        "displayVideo": "",
+        "redirectURL": "https://jgpednekarjewellers.in/products/category/5f6741e8ad63537c72923b6b",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       },
       {
         "id": 2,
         "ad": "Ram Bandhu",
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-3x1_EFLktEP4c.png?updatedAt=1629789920071",
+        "displayImage": {
+          "3:1": "https://ik.imagekit.io/planetmarathi/platform-partners/ram_bandhu/ram-bandhu-3x1_11B7FVi2b.png?updatedAt=1629980355200"
+        },
         "displayVideo": "",
         "displayName": {
           "en": "Ram Bandhu",
           "mr": "राम बंधू"
         },
         "redirectURL": "https://bit.ly/3yEGKNH",
+        "adStartTime": "2021-08-12T18:30:00.000Z",
+        "adEndTime": "2021-08-30T23:59:00.000Z"
+      },
+      {
+        "id": 3,
+        "ad": "Chitale",
+        "displayImage": {
+          "3:1": "https://ik.imagekit.io/planetmarathi/platform-partners/chitale/chitale-3x1_dmt3YEauW-.png?updatedAt=1630242856937"
+        },
+        "displayVideo": "",
+        "displayName": {
+          "en": "Chitale",
+          "mr": "चितळे"
+        },
+        "redirectURL": "https://chitalexpress.com/locations/",
         "adStartTime": "2021-08-12T18:30:00.000Z",
         "adEndTime": "2021-08-30T23:59:00.000Z"
       }
@@ -64,7 +101,9 @@
       {
         "id": 2,
         "ad": "Ram Bandhu",
-        "displayImage": "https://ik.imagekit.io/planetmarathi/platform-partners/ram-bandhu-6x1_zIKm6uN-p.png?updatedAt=1629789918472",
+        "displayImage": {
+          "6:1": "https://ik.imagekit.io/planetmarathi/platform-partners/ram_bandhu/ram-bandhu-6x1_pwr-LOoaZc.png?updatedAt=1629982642550"
+        },
         "displayVideo": "",
         "displayName": {
           "en": "Ram Bandhu",
