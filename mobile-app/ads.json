@@ -2,22 +2,6 @@
   {
     "type": "ad",
     "ad_type": "carousel",
-    "data": [
-      {
-        "ad_image_url": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp/jgp-1x1_tyBXqtx2M.png?updatedAt=1629980331619",
-        "ad_redirect_url": "https://www.planetmarathi.com/titles/coffee-ani-barach-kahi",
-        "ad_name": "Mawala"
-      },
-      {
-        "ad_image_url": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp/jgp-1x1_tyBXqtx2M.png?updatedAt=1629980331619",
-        "ad_redirect_url": "https://www.planetmarathi.com/titles/coffee-ani-barach-kahi",
-        "ad_name": "Mawala"
-      },
-      {
-        "ad_image_url": "https://ik.imagekit.io/planetmarathi/platform-partners/jgp/jgp-1x1_tyBXqtx2M.png?updatedAt=1629980331619",
-        "ad_redirect_url": "https://www.planetmarathi.com/titles/coffee-ani-barach-kahi",
-        "ad_name": "Mawala"
-      }
-    ]
+    "data": []
   }
 ]
