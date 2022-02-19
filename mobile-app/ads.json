@@ -2,6 +2,15 @@
   {
     "type": "ad",
     "ad_type": "carousel",
-    "data": []
+    "data": [
+      {
+        "ad_image_url": {
+          "1-1": "https://ik.imagekit.io/planetmarathi/platform-partners/mawala/mawala-carousel-1x1_7y-_rU7JP.jpg",
+          "16-9": "https://ik.imagekit.io/planetmarathi/platform-partners/mawala/mawala-carousel-16x9_7q09t2wh1.jpg"
+        },
+        "ad_redirect_url": "https://plt.mt/maawlaa",
+        "ad_name": "Maawala"
+      }
+    ]
   }
 ]
