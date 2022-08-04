@@ -4,7 +4,7 @@
     "web": "https://ik.imagekit.io/planetmarathi/platform-partners/killer/killer_web_ad_uPX5QafTJ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659445944685",
   },
   "supportedPlatform":[
-     "android"
+     "android", "ios"
   ],
   "expireAt":"2022-08-30T23:59:59Z",
   "supportedCountry":[
