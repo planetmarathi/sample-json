@@ -32,8 +32,8 @@
       "appLocationIndex": 0,
       "adHeight":250,
       "adWidth":300,
-      "type":"android",
-      "platform":"ios",
+      "type":"display",
+      "platform":"android",
       "provider":"jio",
       "adImageURL":"",
       "adRedirect":""
