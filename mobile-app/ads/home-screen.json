@@ -52,6 +52,19 @@
       "adRedirect": ""
    },
    {
+      "adSpotName": "PlanetMarathi_IOS_Banner_BC_300X250",
+      "adSpotKey": "dp523j08",
+      "appLocation": "lolomo",
+      "appLocationIndex": 0,
+      "adHeight": 50,
+      "adWidth": 320,
+      "type": 1,
+      "platform": "ios",
+      "provider": "jio",
+      "adImageURL": "",
+      "adRedirect": ""
+   },
+   {
       "adSpotName":"PlanetMarathi_Android_Banner_Footer_320x50",
       "adSpotKey":"fh2vti75",
       "appLocation":"footer",
