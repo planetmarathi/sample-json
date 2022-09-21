@@ -53,16 +53,16 @@
    },
    {
       "adSpotName": "PlanetMarathi_IOS_Banner_BC_300X250",
-      "adSpotKey": "",
+      "adSpotKey": "eg6w2o7y",
       "appLocation": "lolomo",
       "appLocationIndex": 3,
       "adHeight": 50,
       "adWidth": 320,
       "type": 1,
       "platform": "ios",
-      "provider": "in-house",
-      "adImageURL": "https://ik.imagekit.io/planetmarathi/platform-partners/chitale/chitale-3x1_dmt3YEauW-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1630242856937",
-      "adRedirect": "https://www.planetmarathi.com/"
+      "provider": "jio",
+      "adImageURL": "",
+      "adRedirect": ""
    },
    {
       "adSpotName":"PlanetMarathi_Android_Banner_Footer_320x50",
