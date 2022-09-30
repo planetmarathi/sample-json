@@ -2,7 +2,7 @@
     {
       "adSpotName": "PlanetMarathi_IOS_Banner_BP_320X50",
       "adSpotKey": "dp523j08",
-      "appLocation": "lolomo",
+      "appLocation": "below-player",
       "appLocationIndex": 0,
       "adHeight": 50,
       "adWidth": 320,
@@ -15,7 +15,7 @@
    {
       "adSpotName":"PlanetMarathi_Android_Banner_BP_320X50",
       "adSpotKey":"fh2vti75",
-      "appLocation":"footer",
+      "appLocation":"below-player",
       "appLocationIndex": 0,
       "adHeight":50,
       "adWidth":320,
