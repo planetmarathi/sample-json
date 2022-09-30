@@ -1,1 +1,15 @@
-
+[
+   {
+      "adSpotName":"PlanetMarathi_Android_Banner_Carousel_300x250",
+      "adSpotKey":"lt5yh3fr",
+      "appLocation":"carousel",
+      "appLocationIndex":2,
+      "adHeight":250,
+      "adWidth":300,
+      "type":1,
+      "platform":"android",
+      "provider":"jio",
+      "adImageURL":"",
+      "adRedirect":""
+   }
+]
