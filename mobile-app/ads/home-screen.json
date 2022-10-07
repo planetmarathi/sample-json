@@ -14,19 +14,6 @@
    },
    {
       "adSpotName":"PlanetMarathi_IOS_Banner_Carousel_300x250",
-      "adSpotKey": "",
-      "appLocation": "carousel",
-      "appLocationIndex": 0,
-      "adHeight": 250,
-      "adWidth": 300,
-      "type": 1,
-      "platform": "ios",
-      "provider": "in-house",
-      "adImageURL": "https://ik.imagekit.io/planetmarathi/platform-partners/chitale/c-1-1-min_CXaHg03HgFO.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1630676816909",
-      "adRedirect": "https://www.planetmarathi.com/"
-   },
-   {
-      "adSpotName":"PlanetMarathi_IOS_Banner_Carousel_300x250",
       "adSpotKey": "9fltyq7s",
       "appLocation": "carousel",
       "appLocationIndex": 2,
@@ -104,4 +91,6 @@
       "adRedirect":""
    }
 ]
+
+
 
