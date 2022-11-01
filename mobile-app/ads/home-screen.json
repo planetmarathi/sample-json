@@ -26,6 +26,19 @@
       "adRedirect": ""
    },
    {
+      "adSpotName":"PlanetMarathi_Android_Banner_BC_320X50",
+      "adSpotKey":"kdlfh2x3",
+      "appLocation":"lolomo",
+      "appLocationIndex": 0,
+      "adHeight":50,
+      "adWidth":320,
+      "type":1,
+      "platform":"android",
+      "provider":"jio",
+      "adImageURL":"",
+      "adRedirect":""
+   },
+   {
       "adSpotName":"PlanetMarathi_Android_Banner_BC_300X250",
       "adSpotKey":"9fltyq7s",
       "appLocation":"lolomo",
@@ -43,19 +56,6 @@
       "adSpotKey":"9fltyq7s",
       "appLocation":"lolomo",
       "appLocationIndex": 8,
-      "adHeight":250,
-      "adWidth":300,
-      "type":1,
-      "platform":"android",
-      "provider":"jio",
-      "adImageURL":"",
-      "adRedirect":""
-   },
-   {
-      "adSpotName":"PlanetMarathi_Android_Banner_BC_300X250",
-      "adSpotKey":"9fltyq7s",
-      "appLocation":"lolomo",
-      "appLocationIndex": 0,
       "adHeight":250,
       "adWidth":300,
       "type":1,
