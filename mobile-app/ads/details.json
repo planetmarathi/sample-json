@@ -37,5 +37,18 @@
       "provider":"jio",
       "adImageURL":"",
       "adRedirect":""
+   },
+   {
+      "adSpotName":"PlanetMarathi_IOS_Banner_Carousel_300x250",
+      "adSpotKey":"ime6sry9",
+      "appLocation":"in-video",
+      "appLocationIndex":0,
+      "adHeight":250,
+      "adWidth":300,
+      "type":2,
+      "platform":"ios",
+      "provider":"jio",
+      "adImageURL":"",
+      "adRedirect":""
    }
 ]
