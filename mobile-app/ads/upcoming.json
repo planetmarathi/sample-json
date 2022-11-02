@@ -1,7 +1,7 @@
 [
   {
-     "adSpotName":"PlanetMarathi_Android_Banner_BC_300X250",
-     "adSpotKey":"9fltyq7s",
+     "adSpotName":"PlanetMarathi_Android_Banner_Upcoming_300X250",
+     "adSpotKey":"6w9tep43",
      "appLocation":"upcoming",
      "appLocationIndex": 0,
      "adHeight":250,
@@ -13,12 +13,12 @@
      "adRedirect":""
   },
   {
-     "adSpotName": "PlanetMarathi_IOS_Banner_BC_300X250",
-     "adSpotKey": "dp523j08",
+     "adSpotName": "PlanetMarathi_IOS_Banner_Upcoming_300X250",
+     "adSpotKey": "vjmze057",
      "appLocation": "upcoming",
      "appLocationIndex": 0,
-     "adHeight": 50,
-     "adWidth": 320,
+     "adHeight": 250,
+     "adWidth": 300,
      "type": 1,
      "platform": "ios",
      "provider": "jio",
@@ -26,8 +26,34 @@
      "adRedirect": ""
   },
   {
-      "adSpotName":"PlanetMarathi_Android_Instream",
-      "adSpotKey":"e3840zux",
+     "adSpotName": "PlanetMarathi_Tablet_Banner_Upcoming_970x250",
+     "adSpotKey": "3h29yovf",
+     "appLocation": "upcoming",
+     "appLocationIndex": 0,
+     "adHeight": 250,
+     "adWidth": 970,
+     "type": 1,
+     "platform": "tablet",
+     "provider": "jio",
+     "adImageURL": "",
+     "adRedirect": ""
+  },
+  {
+     "adSpotName": "PlanetMarathi_iPad_Banner_Upcoming_970x250",
+     "adSpotKey": "htmbx14k",
+     "appLocation": "upcoming",
+     "appLocationIndex": 0,
+     "adHeight": 250,
+     "adWidth": 970,
+     "type": 1,
+     "platform": "iPad",
+     "provider": "jio",
+     "adImageURL": "",
+     "adRedirect": ""
+  },
+  {
+      "adSpotName":"PlanetMarathi_Android_InStream_Player",
+      "adSpotKey":"pvglrx38",
       "appLocation":"in-video",
       "appLocationIndex":0,
       "adHeight":250,
@@ -39,14 +65,40 @@
       "adRedirect":""
    },
    {
-      "adSpotName":"PlanetMarathi_IOS_Instream",
-      "adSpotKey":"ime6sry9",
+      "adSpotName":"PlanetMarathi_IOS_InStream_Player",
+      "adSpotKey":"6pt9hmi8",
       "appLocation":"in-video",
       "appLocationIndex":0,
       "adHeight":250,
       "adWidth":300,
       "type":2,
       "platform":"ios",
+      "provider":"jio",
+      "adImageURL":"",
+      "adRedirect":""
+   },
+   {
+      "adSpotName":"PlanetMarathi_Tablet_InStream_Player",
+      "adSpotKey":"y1ae5ptq",
+      "appLocation":"in-video",
+      "appLocationIndex":0,
+      "adHeight":250,
+      "adWidth":300,
+      "type":2,
+      "platform":"tablet",
+      "provider":"jio",
+      "adImageURL":"",
+      "adRedirect":""
+   },
+   {
+      "adSpotName":"PlanetMarathi_iPad_InStream_Player",
+      "adSpotKey":"rpd6jvbg",
+      "appLocation":"in-video",
+      "appLocationIndex":0,
+      "adHeight":250,
+      "adWidth":300,
+      "type":2,
+      "platform":"iPad",
       "provider":"jio",
       "adImageURL":"",
       "adRedirect":""
