@@ -1,11 +1,11 @@
 [
   {
-     "adSpotName":"PlanetMarathi_Android_Banner_Upcoming_300X250",
-     "adSpotKey":"6w9tep43",
+     "adSpotName":"PlanetMarathi_Android_Banner_Upcoming_320X50",
+     "adSpotKey": "fh2vti75",
      "appLocation":"upcoming",
      "appLocationIndex": 0,
-     "adHeight":250,
-     "adWidth":300,
+     "adHeight":50,
+     "adWidth":320,
      "type":1,
      "platform":"android",
      "provider":"jio",
@@ -13,12 +13,12 @@
      "adRedirect":""
   },
   {
-     "adSpotName": "PlanetMarathi_IOS_Banner_Upcoming_300X250",
-     "adSpotKey": "vjmze057",
+     "adSpotName": "PlanetMarathi_IOS_Banner_Upcoming_320X50",
+     "adSpotKey": "a47s9qlj",
      "appLocation": "upcoming",
      "appLocationIndex": 0,
-     "adHeight": 250,
-     "adWidth": 300,
+     "adHeight": 50,
+     "adWidth": 320,
      "type": 1,
      "platform": "ios",
      "provider": "jio",
@@ -26,11 +26,11 @@
      "adRedirect": ""
   },
   {
-     "adSpotName": "PlanetMarathi_Tablet_Banner_Upcoming_970x250",
-     "adSpotKey": "3h29yovf",
+     "adSpotName": "PlanetMarathi_Tablet_Banner_Upcoming_970x90",
+     "adSpotKey": "p1d4sjrt",
      "appLocation": "upcoming",
      "appLocationIndex": 0,
-     "adHeight": 250,
+     "adHeight": 90,
      "adWidth": 970,
      "type": 1,
      "platform": "tablet",
@@ -39,11 +39,11 @@
      "adRedirect": ""
   },
   {
-     "adSpotName": "PlanetMarathi_iPad_Banner_Upcoming_970x250",
-     "adSpotKey": "htmbx14k",
+     "adSpotName": "PlanetMarathi_iPad_Banner_Upcoming_970x90",
+     "adSpotKey": "l65aui12",
      "appLocation": "upcoming",
      "appLocationIndex": 0,
-     "adHeight": 250,
+     "adHeight": 90,
      "adWidth": 970,
      "type": 1,
      "platform": "iPad",
