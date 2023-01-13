@@ -21,9 +21,9 @@
      "adWidth": 320,
      "type": 1,
      "platform": "ios",
-     "provider": "jio",
-     "adImageURL": "",
-     "adRedirect": ""
+     "provider": "in-house",
+     "adImageURL": "https://ik.imagekit.io/planetmarathi/platform-partners/killer/killer_mobile_cp736Tzw_.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659688463055",
+     "adRedirect": "https://www.jioads.jio.com"
   },
   {
      "adSpotName": "PlanetMarathi_Tablet_Banner_Upcoming_970x90",
