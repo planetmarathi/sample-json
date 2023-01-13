@@ -14,7 +14,7 @@
   },
   {
     "adSpotName": "PlanetMarathi_IOS_Banner_Carousel_300x250",
-    "adSpotKey": "bpczxd1n",
+    "adSpotKey": "",
     "appLocation": "carousel",
     "appLocationIndex": 2,
     "adHeight": 250,
@@ -22,8 +22,8 @@
     "type": 1,
     "platform": "ios",
     "provider": "jio",
-    "adImageURL": "",
-    "adRedirect": ""
+    "adImageURL": "https://ik.imagekit.io/planetmarathi/600-500_wvTxX9gxg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1663750256864",
+    "adRedirect": "https://www.jioads.jio.com"
   },
   {
     "adSpotName": "PlanetMarathi_Tablet_Banner_Carousel_970x250",
