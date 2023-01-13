@@ -21,7 +21,7 @@
     "adWidth": 300,
     "type": 1,
     "platform": "ios",
-    "provider": "jio",
+    "provider": "in-house",
     "adImageURL": "https://ik.imagekit.io/planetmarathi/600-500_wvTxX9gxg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1663750256864",
     "adRedirect": "https://www.jioads.jio.com"
   },
