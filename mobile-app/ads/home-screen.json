@@ -10,7 +10,7 @@
     "platform": "android",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_IOS_Banner_Carousel_300x250",
@@ -23,7 +23,7 @@
     "platform": "ios",
     "provider": "in-house",
     "adImageURL": "https://ik.imagekit.io/planetmarathi/600-500_wvTxX9gxg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1663750256864",
-    "adRedirect": "https://www.jioads.jio.com"
+    "url": "https://www.jioads.jio.com"
   },
   {
     "adSpotName": "PlanetMarathi_Tablet_Banner_Carousel_970x250",
@@ -36,7 +36,7 @@
     "platform": "tablet",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_iPad_Banner_Carousel_970x250",
@@ -49,7 +49,7 @@
     "platform": "iPad",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_Android_Banner_BC_300X250",
@@ -62,7 +62,7 @@
     "platform": "android",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_IOS_Banner_BC_300X250",
@@ -75,7 +75,7 @@
     "platform": "ios",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_Tablet_Banner_BC_970x250",
@@ -88,7 +88,7 @@
     "platform": "tablet",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_iPad_Banner_BC_970x250",
@@ -101,7 +101,7 @@
     "platform": "iPad",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_Android_Banner_BC2_300X250",
@@ -114,7 +114,7 @@
     "platform": "android",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_IOS_Banner_BC2_300X250",
@@ -127,7 +127,7 @@
     "platform": "ios",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_Tablet_Banner_BC2_970x250",
@@ -140,7 +140,7 @@
     "platform": "tablet",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_iPad_Banner_BC2_970x250",
@@ -153,7 +153,7 @@
     "platform": "iPad",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_Android_Banner_BC3_300X250",
@@ -166,7 +166,7 @@
     "platform": "android",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_IOS_Banner_BC3_300X250",
@@ -179,7 +179,7 @@
     "platform": "ios",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_Tablet_Banner_BC3_970x250",
@@ -192,7 +192,7 @@
     "platform": "tablet",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_iPad_Banner_BC3_970x250",
@@ -205,7 +205,7 @@
     "platform": "iPad",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_Android_Banner_Footer_320x50",
@@ -218,7 +218,7 @@
     "platform": "android",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_IOS_Banner_Footer_320X50",
@@ -231,7 +231,7 @@
     "platform": "ios",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_Tablet_Banner_Footer_970x90",
@@ -244,7 +244,7 @@
     "platform": "tablet",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   },
   {
     "adSpotName": "PlanetMarathi_iPad_Banner_Footer_970x90",
@@ -257,6 +257,6 @@
     "platform": "iPad",
     "provider": "jio",
     "adImageURL": "",
-    "adRedirect": ""
+    "url": ""
   }
 ]
