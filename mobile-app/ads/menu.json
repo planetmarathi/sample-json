@@ -1,0 +1,10 @@
+[
+    {
+        "menuItem": "Film Fare Voting",
+        "menuPath": "InAppWebview",
+        "menuItemPayload": {
+            "title": "Film Fare Voting",
+            "url": "https://www.planetmarathi.com"
+        }
+    }
+]
