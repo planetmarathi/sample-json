@@ -1,6 +1,10 @@
 [
     {
-        "menuItem": "Film Fare Voting",
+        "menuItem": {
+            "en": "Film Fare Voting",
+            "mr": "Film Fare Voting"
+        },
+        "menuIcon": "heart-regular",
         "menuPath": "InAppWebview",
         "menuItemPayload": {
             "title": "Film Fare Voting",
