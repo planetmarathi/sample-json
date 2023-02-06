@@ -1,15 +1,1 @@
-[
-    {
-        "menuItem": {
-            "en": "Film Fare Voting",
-            "mr": "Film Fare Voting"
-        },
-        "menuIcon": "heart-regular",
-        "menuPath": "InAppWebview",
-        "menuItemPayload": {
-            "title": "Film Fare Voting",
-            "url": "https://www.planetmarathi.com"
-        },
-        "expireAt": "2023-02-15T00:00:00.489Z"
-    }
-]
+[]
