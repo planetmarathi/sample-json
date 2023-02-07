@@ -3,16 +3,22 @@
      "adSpotName":"PlanetMarathi_Android_Banner_Carousel_300x250",
      "adSpotKey":"lt5yh3fr",
      "appLocation":"carousel",
-     "appLocationIndex":2,
+     "appLocationIndex":0,
      "adHeight":250,
      "adWidth":300,
      "type":1,
      "platform":"android",
      "provider":"jio",
-     "adImageURL":"",
+     "adImageURL": "https://ik.imagekit.io/planetmarathi/tvod/vod_mast_app_1x1_Po-cs84ir.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256712766",
      "adRedirect":"",
-     "isForSubscribedUser":false,
-     "navigationPayload":null
+     "isForSubscribedUser":true,
+     "navigationPayload": {
+      "to": "Details",
+      "params": {
+         "slug": "goshta-eka-paithanichi",
+         "vodType": "tvod"
+      }
+     }
   },
   {
      "adSpotName":"PlanetMarathi_IOS_Banner_Carousel_300x250",
