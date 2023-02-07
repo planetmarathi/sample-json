@@ -8,7 +8,7 @@
      "adWidth":300,
      "type":1,
      "platform":"android",
-     "provider":"jio",
+     "provider":"in-house",
      "adImageURL": "https://ik.imagekit.io/planetmarathi/tvod/vod_mast_app_1x1_Po-cs84ir.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256712766",
      "adRedirect":"",
      "isForSubscribedUser":true,
