@@ -10,7 +10,9 @@
       "platform":"android",
       "provider":"jio",
       "adImageURL":"",
-      "adRedirect":""
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
    },
    {
       "adSpotName":"PlanetMarathi_IOS_Banner_Carousel_300x250",
@@ -23,6 +25,8 @@
       "platform":"ios",
       "provider":"jio",
       "adImageURL":"",
-      "adRedirect":""
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
    }
 ]

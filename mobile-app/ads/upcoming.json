@@ -1,57 +1,65 @@
 [
-  {
-     "adSpotName":"PlanetMarathi_Android_Banner_Upcoming_320X50",
-     "adSpotKey": "fh2vti75",
-     "appLocation":"upcoming",
-     "appLocationIndex": 0,
-     "adHeight":50,
-     "adWidth":320,
-     "type":1,
-     "platform":"android",
-     "provider":"jio",
-     "adImageURL":"",
-     "adRedirect":""
-  },
-  {
-     "adSpotName": "PlanetMarathi_IOS_Banner_Upcoming_320X50",
-     "adSpotKey": "a47s9qlj",
-     "appLocation": "footer",
-     "appLocationIndex": 0,
-     "adHeight": 50,
-     "adWidth": 320,
-     "type": 1,
-     "platform": "ios",
-     "provider": "in-house",
-     "adImageURL": "https://ik.imagekit.io/planetmarathi/platform-partners/killer/killer_mobile_cp736Tzw_.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659688463055",
-     "adRedirect": "https://www.jioads.jio.com"
-  },
-  {
-     "adSpotName": "PlanetMarathi_Tablet_Banner_Upcoming_970x90",
-     "adSpotKey": "p1d4sjrt",
-     "appLocation": "upcoming",
-     "appLocationIndex": 0,
-     "adHeight": 90,
-     "adWidth": 970,
-     "type": 1,
-     "platform": "tablet",
-     "provider": "jio",
-     "adImageURL": "",
-     "adRedirect": ""
-  },
-  {
-     "adSpotName": "PlanetMarathi_iPad_Banner_Upcoming_970x90",
-     "adSpotKey": "l65aui12",
-     "appLocation": "upcoming",
-     "appLocationIndex": 0,
-     "adHeight": 90,
-     "adWidth": 970,
-     "type": 1,
-     "platform": "iPad",
-     "provider": "jio",
-     "adImageURL": "",
-     "adRedirect": ""
-  },
-  {
+   {
+      "adSpotName":"PlanetMarathi_Android_Banner_Upcoming_320X50",
+      "adSpotKey":"fh2vti75",
+      "appLocation":"upcoming",
+      "appLocationIndex":0,
+      "adHeight":50,
+      "adWidth":320,
+      "type":1,
+      "platform":"android",
+      "provider":"jio",
+      "adImageURL":"",
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
+   },
+   {
+      "adSpotName":"PlanetMarathi_IOS_Banner_Upcoming_320X50",
+      "adSpotKey":"a47s9qlj",
+      "appLocation":"upcoming",
+      "appLocationIndex":0,
+      "adHeight":50,
+      "adWidth":320,
+      "type":1,
+      "platform":"ios",
+      "provider":"jio",
+      "adImageURL":"",
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
+   },
+   {
+      "adSpotName":"PlanetMarathi_Tablet_Banner_Upcoming_970x90",
+      "adSpotKey":"p1d4sjrt",
+      "appLocation":"upcoming",
+      "appLocationIndex":0,
+      "adHeight":90,
+      "adWidth":970,
+      "type":1,
+      "platform":"tablet",
+      "provider":"jio",
+      "adImageURL":"",
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
+   },
+   {
+      "adSpotName":"PlanetMarathi_iPad_Banner_Upcoming_970x90",
+      "adSpotKey":"l65aui12",
+      "appLocation":"upcoming",
+      "appLocationIndex":0,
+      "adHeight":90,
+      "adWidth":970,
+      "type":1,
+      "platform":"iPad",
+      "provider":"jio",
+      "adImageURL":"",
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
+   },
+   {
       "adSpotName":"PlanetMarathi_Android_InStream_Player",
       "adSpotKey":"pvglrx38",
       "appLocation":"in-video",
@@ -62,7 +70,9 @@
       "platform":"android",
       "provider":"jio",
       "adImageURL":"",
-      "adRedirect":""
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
    },
    {
       "adSpotName":"PlanetMarathi_IOS_InStream_Player",
@@ -75,7 +85,9 @@
       "platform":"ios",
       "provider":"jio",
       "adImageURL":"",
-      "adRedirect":""
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
    },
    {
       "adSpotName":"PlanetMarathi_Tablet_InStream_Player",
@@ -88,7 +100,9 @@
       "platform":"tablet",
       "provider":"jio",
       "adImageURL":"",
-      "adRedirect":""
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
    },
    {
       "adSpotName":"PlanetMarathi_iPad_InStream_Player",
@@ -101,9 +115,8 @@
       "platform":"iPad",
       "provider":"jio",
       "adImageURL":"",
-      "adRedirect":""
+      "adRedirect":"",
+      "isForSubscribedUser":false,
+      "navigationPayload":null
    }
 ]
-
-
-
