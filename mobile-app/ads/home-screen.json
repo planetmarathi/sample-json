@@ -13,12 +13,11 @@
      "adRedirect":"",
      "isForSubscribedUser":true,
      "navigationPayload": {
-      "to": "Details",
-      "params": {
-         "slug": "goshta-eka-paithanichi",
-         "vodType": "tvod"
+         "to": "BottomTab",
+         "params": {
+            "screen": "VOD"
+         }
       }
-     }
   },
   {
      "adSpotName":"PlanetMarathi_IOS_Banner_Carousel_300x250",
@@ -34,12 +33,11 @@
      "adRedirect":"",
      "isForSubscribedUser":false,
      "navigationPayload": {
-      "to": "Details",
-      "params": {
-         "slug": "goshta-eka-paithanichi",
-         "vodType": "tvod"
+         "to": "BottomTab",
+         "params": {
+            "screen": "VOD"
+         }
       }
-   }
   },
   {
      "adSpotName":"PlanetMarathi_Tablet_Banner_Carousel_970x250",
@@ -80,9 +78,9 @@
      "adWidth":300,
      "type":1,
      "platform":"android",
-     "provider":"jio",
-     "adImageURL":"",
-     "adRedirect":"",
+     "provider":"in-house",
+     "adImageURL":"https://ik.imagekit.io/planetmarathi/PM_Filmfare/Filmfare_2022_600x500_eBnrffipw.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1676289546270",
+     "adRedirect":"https://planetmarathi.com/",
      "isForSubscribedUser":false,
      "navigationPayload":null
   },
@@ -95,9 +93,9 @@
      "adWidth":300,
      "type":1,
      "platform":"ios",
-     "provider":"jio",
-     "adImageURL":"",
-     "adRedirect":"",
+     "provider":"in-house",
+     "adImageURL":"https://ik.imagekit.io/planetmarathi/PM_Filmfare/Filmfare_2022_600x500_eBnrffipw.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1676289546270",
+     "adRedirect":"https://planetmarathi.com/",
      "isForSubscribedUser":false,
      "navigationPayload":null
   },
