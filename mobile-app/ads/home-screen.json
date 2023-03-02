@@ -1,32 +1,112 @@
-[
-  {
-     "adSpotName":"PlanetMarathi_Android_Banner_BC_300X250",
-     "adSpotKey":"9fltyq7s",
-     "appLocation":"lolomo",
-     "appLocationIndex":0,
-     "adHeight":250,
-     "adWidth":300,
-     "type":1,
-     "platform":"android",
-     "provider":"jio",
-     "adImageURL":"https://ik.imagekit.io/planetmarathi/PM_Filmfare/Filmfare_2022_600x500_eBnrffipw.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1676289546270",
-     "adRedirect":"https://planetmarathi.com/",
-     "isForSubscribedUser":false,
-     "navigationPayload":null
-  },
-  {
-     "adSpotName":"PlanetMarathi_IOS_Banner_BC_300X250",
-     "adSpotKey":"eg6w2o7y",
-     "appLocation":"lolomo",
-     "appLocationIndex":0,
-     "adHeight":250,
-     "adWidth":300,
-     "type":1,
-     "platform":"ios",
-     "provider":"jio",
-     "adImageURL":"https://ik.imagekit.io/planetmarathi/PM_Filmfare/Filmfare_2022_600x500_eBnrffipw.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1676289546270",
-     "adRedirect":"https://planetmarathi.com/",
-     "isForSubscribedUser":false,
-     "navigationPayload":null
-  }
-]
+{
+   "home": {
+     "lolomo": {
+       "android": [
+         {
+           "adSpotName": "PlanetMarathi_Android_Banner_BC_300X250",
+           "adSpotKey": "y1vmxqu6",
+           "appLocationIndex": 0,
+           "adHeight": 250,
+           "adWidth": 300,
+           "type": 1,
+           "provider": "jio",
+           "adImageURL": "",
+           "adRedirect": ""
+         }
+       ],
+       "ios": [
+         {
+           "adSpotName": "PlanetMarathi_IOS_Banner_BC_300X250",
+           "adSpotKey": "w4j70v8k",
+           "appLocationIndex": 0,
+           "adHeight": 250,
+           "adWidth": 300,
+           "type": 1,
+           "provider": "jio",
+           "adImageURL": "",
+           "adRedirect": ""
+         }
+       ],
+       "iPad": [
+         {
+           "adSpotName": "PlanetMarathi_iPad_Banner_BC_970x250",
+           "adSpotKey": "59bk0pyz",
+           "appLocationIndex": 0,
+           "adHeight": 250,
+           "adWidth": 970,
+           "type": 1,
+           "provider": "jio",
+           "adImageURL": "",
+           "adRedirect": ""
+         }
+       ],
+       "tablet": [
+         {
+           "adSpotName": "PlanetMarathi_Tablet_Banner_BC_970x250",
+           "adSpotKey": "rkxc3jep",
+           "appLocationIndex": 0,
+           "adHeight": 250,
+           "adWidth": 970,
+           "type": 1,
+           "provider": "jio",
+           "adImageURL": "",
+           "adRedirect": ""
+         }
+       ]
+     },
+     "footer": {
+       "android": [
+         {
+           "adSpotName": "PlanetMarathi_Android_Banner_Footer_320x50",
+           "adSpotKey": "fh2vti75",
+           "appLocationIndex": 0,
+           "adHeight": 50,
+           "adWidth": 320,
+           "type": 1,
+           "provider": "jio",
+           "adImageURL": "",
+           "adRedirect": ""
+         }
+       ],
+       "ios": [
+         {
+           "adSpotName": "PlanetMarathi_IOS_Banner_Footer_320X50",
+           "adSpotKey": "a47s9qlj",
+           "appLocationIndex": 0,
+           "adHeight": 50,
+           "adWidth": 320,
+           "type": 1,
+           "provider": "jio",
+           "adImageURL": "",
+           "adRedirect": ""
+         }
+       ],
+       "iPad": [
+         {
+           "adSpotName": "PlanetMarathi_iPad_Banner_Footer_970x90",
+           "adSpotKey": "l65aui12",
+           "appLocationIndex": 8,
+           "adHeight": 90,
+           "adWidth": 970,
+           "type": 1,
+           "provider": "jio",
+           "adImageURL": "",
+           "adRedirect": ""
+         }
+       ],
+       "tablet": [
+         {
+           "adSpotName": "PlanetMarathi_Tablet_Banner_Footer_970x90",
+           "adSpotKey": "p1d4sjrt",
+           "appLocationIndex": 8,
+           "adHeight": 90,
+           "adWidth": 970,
+           "type": 1,
+           "provider": "jio",
+           "adImageURL": "",
+           "adRedirect": ""
+         }
+       ]
+     }
+   }
+ }
