@@ -496,6 +496,59 @@
       }
   },
   "player": {
-      "in-video": {}
+      "in-video": {
+         "android":[
+            {
+               "adSpotName":"PlanetMarathi_Android_Banner_Footer_320x50",
+               "adSpotKey":"e3840zux",
+               "appLocationIndex":0,
+               "adHeight":50,
+               "adWidth":320,
+               "type":1,
+               "provider":"jio",
+               "adImageURL":"",
+               "adRedirect":""
+            }
+         ],
+         "ios":[
+            {
+               "adSpotName":"PlanetMarathi_IOS_Banner_Footer_320X50",
+               "adSpotKey":"ime6sry9",
+               "appLocationIndex":0,
+               "adHeight":50,
+               "adWidth":320,
+               "type":1,
+               "provider":"jio",
+               "adImageURL":"",
+               "adRedirect":""
+            }
+         ],
+         "iPad":[
+            {
+               "adSpotName":"PlanetMarathi_iPad_Banner_Footer_970x90",
+               "adSpotKey":"ime6sry9",
+               "appLocationIndex":8,
+               "adHeight":90,
+               "adWidth":970,
+               "type":1,
+               "provider":"jio",
+               "adImageURL":"",
+               "adRedirect":""
+            }
+         ],
+         "tablet":[
+            {
+               "adSpotName":"PlanetMarathi_Tablet_Banner_Footer_970x90",
+               "adSpotKey":"e3840zux",
+               "appLocationIndex":8,
+               "adHeight":90,
+               "adWidth":970,
+               "type":1,
+               "provider":"jio",
+               "adImageURL":"",
+               "adRedirect":""
+            }
+         ]
+      }
   }
 }
