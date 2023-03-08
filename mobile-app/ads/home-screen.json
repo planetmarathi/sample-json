@@ -504,7 +504,7 @@
                "appLocationIndex":0,
                "adHeight":50,
                "adWidth":320,
-               "type":1,
+               "type":2,
                "provider":"jio",
                "adImageURL":"",
                "adRedirect":""
@@ -517,7 +517,7 @@
                "appLocationIndex":0,
                "adHeight":50,
                "adWidth":320,
-               "type":1,
+               "type":2,
                "provider":"jio",
                "adImageURL":"",
                "adRedirect":""
@@ -530,7 +530,7 @@
                "appLocationIndex":8,
                "adHeight":90,
                "adWidth":970,
-               "type":1,
+               "type":2,
                "provider":"jio",
                "adImageURL":"",
                "adRedirect":""
@@ -543,7 +543,7 @@
                "appLocationIndex":8,
                "adHeight":90,
                "adWidth":970,
-               "type":1,
+               "type":2,
                "provider":"jio",
                "adImageURL":"",
                "adRedirect":""
