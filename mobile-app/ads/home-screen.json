@@ -507,7 +507,8 @@
                "type":2,
                "provider":"jio",
                "adImageURL":"",
-               "adRedirect":""
+               "adRedirect":"",
+               "isForSubscribedUser": true
             }
          ],
          "ios":[
@@ -520,7 +521,8 @@
                "type":2,
                "provider":"jio",
                "adImageURL":"",
-               "adRedirect":""
+               "adRedirect":"",
+               "isForSubscribedUser": true
             }
          ],
          "iPad":[
@@ -533,7 +535,8 @@
                "type":2,
                "provider":"jio",
                "adImageURL":"",
-               "adRedirect":""
+               "adRedirect":"",
+               "isForSubscribedUser": true
             }
          ],
          "tablet":[
@@ -546,7 +549,8 @@
                "type":2,
                "provider":"jio",
                "adImageURL":"",
-               "adRedirect":""
+               "adRedirect":"",
+               "isForSubscribedUser": true
             }
          ]
       }
