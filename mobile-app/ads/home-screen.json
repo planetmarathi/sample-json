@@ -1,23 +1,5 @@
 {
   "home":{
-      "carousel": {
-         "android": [
-            {
-               "adSpotName":"PlanetMarathi_Android_Banner_BC_300X250",
-               "adSpotKey":"y1vmxqu6",
-               "appLocationIndex":1,
-               "adHeight":250,
-               "adWidth":300,
-               "type":1,
-               "provider":"in-house",
-               "adImageURL":"https://ik.imagekit.io/planetmarathi/03_TFCZtlVJl.png?updatedAt=1639404753597",
-               "adRedirect":"",
-               "navigationPayload": {
-                "to": "Search"
-               }
-            }
-         ]
-      },
      "lolomo":{
         "android":[
            {
