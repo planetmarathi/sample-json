@@ -10,8 +10,11 @@
               "adWidth":300,
               "type":1,
               "provider":"jio",
-              "adImageURL":"",
-              "adRedirect":""
+              "adImageURL":"https://ik.imagekit.io/planetmarathi/PM-Open-Graph-Image-rb_WHLpCxcG6.jpg?updatedAt=1657364756716",
+              "adRedirect":"",
+              "navigationPayload": {
+               "to": "Search"
+              }
            }
         ],
         "ios":[
