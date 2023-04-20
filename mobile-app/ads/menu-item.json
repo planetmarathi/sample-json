@@ -1,18 +1,1 @@
-// empty array if no dynamic menu item required
-[
-    {
-      "label": { "en": "Help", "mr": "M Help"
-        },
-      "subtitle": { "en": "Subtitle", "mr": "Subtitle"
-        },
-      "icon": "user-setting",
-      "forwardArrow": true,
-      "forLoggedInUser": false,
-      "menuIndex": 0,
-      "navigateTo": "InAppWebview",
-      "navigationPayload": {
-        "title": "Web View",
-        "url": "https://www.planetmarathi.com"
-      }
-    }
-]
+[]
