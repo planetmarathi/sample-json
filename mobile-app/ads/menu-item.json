@@ -1,0 +1,14 @@
+[
+    {
+      "label": { "en": "Help", "mr": "M Help"
+        },
+      "subtitle": { "en": "string", "mr": "m string"
+        },
+      "icon": "user-setting",
+      "forwardArrow": true,
+      "forLoggedInUser": false,
+      "menuIndex": 4,
+      "navigateTo": "Help",
+      "navigationPayload": {}
+    }
+]
