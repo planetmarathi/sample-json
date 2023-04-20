@@ -1,3 +1,4 @@
+// empty array if no dynamic menu item required
 [
     {
       "label": { "en": "Help", "mr": "M Help"
