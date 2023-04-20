@@ -7,7 +7,7 @@
       "icon": "user-setting",
       "forwardArrow": true,
       "forLoggedInUser": false,
-      "menuIndex": 4,
+      "menuIndex": 0,
       "navigateTo": "InAppWebview",
       "navigationPayload": {
         "title": "Web View",
