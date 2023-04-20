@@ -2,13 +2,16 @@
     {
       "label": { "en": "Help", "mr": "M Help"
         },
-      "subtitle": { "en": "string", "mr": "m string"
+      "subtitle": { "en": "Subtitle", "mr": "Subtitle"
         },
       "icon": "user-setting",
       "forwardArrow": true,
       "forLoggedInUser": false,
       "menuIndex": 4,
-      "navigateTo": "Help",
-      "navigationPayload": {}
+      "navigateTo": "InAppWebview",
+      "navigationPayload": {
+        "title": "Web View",
+        "url": "https://www.planetmarathi.com"
+      }
     }
 ]
