@@ -1,266 +1,350 @@
 {
-   "home": {
-     "footer": {
-       "android": [
-         {
-           "adSpotName": "PlanetMarathi_Android_Banner_Footer_320x50",
-           "adSpotKey": "fh2vti75",
-           "appLocation": "footer",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "android",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ],
-       "ios": [
-         {
-           "adSpotName": "PlanetMarathi_IOS_Banner_Footer_320X50",
-           "adSpotKey": "a47s9qlj",
-           "appLocation": "footer",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "ios",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ]
-     }
-   },
-   "tvod": {
-     "lolomo": {
-       "android": [
-         {
-           "adSpotName": "PlanetMarathi_Android_Banner_TVOD_300X250",
-           "adSpotKey": "y1vmxqu6",
-           "appLocation": "lolomo",
-           "appLocationIndex": 2,
-           "adHeight": 250,
-           "adWidth": 300,
-           "type": 1,
-           "platform": "android",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ],
-       "ios": [
-         {
-           "adSpotName": "PlanetMarathi_IOS_Banner_TVOD_300X250",
-           "adSpotKey": "eg6w2o7y",
-           "appLocationIndex": 2,
-           "adHeight": 250,
-           "adWidth": 300,
-           "type": 1,
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ]
-     },
-     "footer": {
-       "android": [
-         {
-           "adSpotName": "PlanetMarathi_Android_Banner_TVOD_Footer_320x50",
-           "adSpotKey": "fh2vti75",
-           "appLocation": "footer",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "android",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ],
-       "ios": [
-         {
-           "adSpotName": "PlanetMarathi_IOS_Banner_TVOD_Footer_320X50",
-           "adSpotKey": "a47s9qlj",
-           "appLocation": "footer",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "ios",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ]
-     }
-   },
-   "upcoming": {
-     "footer": {
-       "android": [
-         {
-           "adSpotName": "PlanetMarathi_Android_Banner_Upcoming_320X50",
-           "adSpotKey": "fh2vti75",
-           "appLocation": "upcoming",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "android",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ],
-       "ios": [
-         {
-           "adSpotName": "PlanetMarathi_IOS_Banner_Upcoming_320X50",
-           "adSpotKey": "a47s9qlj",
-           "appLocation": "upcoming",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "ios",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ]
-     }
-   },
-   "games": {
-     "lolomo": {
-       "android": [
-         {
-           "adSpotName": "PlanetMarathi_Android_Banner_GAME_300X250",
-           "adSpotKey": "y1vmxqu6",
-           "appLocation": "lolomo",
-           "appLocationIndex": 2,
-           "adHeight": 250,
-           "adWidth": 300,
-           "type": 1,
-           "platform": "android",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ],
-       "ios": [
-         {
-           "adSpotName": "PlanetMarathi_IOS_Banner_GAME_300X250",
-           "adSpotKey": "eg6w2o7y",
-           "appLocationIndex": 2,
-           "adHeight": 250,
-           "adWidth": 300,
-           "type": 1,
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ]
-     },
-     "footer": {
-       "android": [
-         {
-           "adSpotName": "PlanetMarathi_Android_Banner_GAME_Footer_320x50",
-           "adSpotKey": "fh2vti75",
-           "appLocation": "footer",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "android",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ],
-       "ios": [
-         {
-           "adSpotName": "PlanetMarathi_IOS_Banner_GAME_Footer_320X50",
-           "adSpotKey": "a47s9qlj",
-           "appLocation": "footer",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "ios",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ]
-     }
-   },
-   "production": {
-     "below-player": {
-       "android": [
-         {
-           "adSpotName": "PlanetMarathi_Android_Banner_BP_320X50",
-           "adSpotKey": "crhejy5z",
-           "appLocation": "below-player",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "android",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ],
-       "ios": [
-         {
-           "adSpotName": "PlanetMarathi_IOS_Banner_BP_320X50",
-           "adSpotKey": "1tz37nwy",
-           "appLocation": "below-player",
-           "appLocationIndex": 0,
-           "adHeight": 50,
-           "adWidth": 320,
-           "type": 1,
-           "platform": "ios",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ]
-     }
-   },
-   "player": {
-     "in-video": {
-       "android": [
-         {
-           "adSpotName": "PlanetMarathi_Android_InStream_Player",
-           "adSpotKey": "pvglrx38",
-           "appLocation": "in-video",
-           "appLocationIndex": 0,
-           "adHeight": 250,
-           "adWidth": 300,
-           "type": 2,
-           "platform": "android",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ],
-       "ios": [
-         {
-           "adSpotName": "PlanetMarathi_IOS_InStream_Player",
-           "adSpotKey": "6pt9hmi8",
-           "appLocation": "in-video",
-           "appLocationIndex": 0,
-           "adHeight": 250,
-           "adWidth": 300,
-           "type": 2,
-           "platform": "ios",
-           "provider": "jio",
-           "adImageURL": "",
-           "adRedirect": ""
-         }
-       ]
-     }
-   }
- }
+  "home": {
+    "lolomo": {
+      "android": [
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_BC_300X250",
+          "adSpotKey": "y1vmxqu6",
+          "appLocation": "lolomo",
+          "appLocationIndex": 0,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        },
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_BC2_300X250",
+          "adSpotKey": "ioqaw5sd",
+          "appLocation": "lolomo",
+          "appLocationIndex": 2,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        },
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_BC3_300X250",
+          "adSpotKey": "bl512ufs",
+          "appLocation": "lolomo",
+          "appLocationIndex": 4,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ],
+      "ios": [
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_BC_300X250",
+          "adSpotKey": "w4j70v8k",
+          "appLocation": "lolomo",
+          "appLocationIndex": 0,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "platform": "ios",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        },
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_BC2_300X250",
+          "adSpotKey": "w4j70v8k",
+          "appLocation": "lolomo",
+          "appLocationIndex": 2,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "platform": "ios",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        },
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_BC3_300X250",
+          "adSpotKey": "1z7k6c0g",
+          "appLocation": "lolomo",
+          "appLocationIndex": 4,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "platform": "ios",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ]
+    },
+    "footer": {
+      "android": [
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_Footer_320x50",
+          "adSpotKey": "fh2vti75",
+          "appLocation": "footer",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ],
+      "ios": [
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_Footer_320X50",
+          "adSpotKey": "a47s9qlj",
+          "appLocation": "footer",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "ios",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ]
+    }
+  },
+  "tvod": {
+    "lolomo": {
+      "android": [
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_TVOD_300X250",
+          "adSpotKey": "y1vmxqu6",
+          "appLocation": "lolomo",
+          "appLocationIndex": 2,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ],
+      "ios": [
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_TVOD_300X250",
+          "adSpotKey": "eg6w2o7y",
+          "appLocationIndex": 2,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ]
+    },
+    "footer": {
+      "android": [
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_TVOD_Footer_320x50",
+          "adSpotKey": "fh2vti75",
+          "appLocation": "footer",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ],
+      "ios": [
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_TVOD_Footer_320X50",
+          "adSpotKey": "a47s9qlj",
+          "appLocation": "footer",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "ios",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ]
+    }
+  },
+  "upcoming": {
+    "footer": {
+      "android": [
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_Upcoming_320X50",
+          "adSpotKey": "fh2vti75",
+          "appLocation": "upcoming",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ],
+      "ios": [
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_Upcoming_320X50",
+          "adSpotKey": "a47s9qlj",
+          "appLocation": "upcoming",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "ios",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ]
+    }
+  },
+  "games": {
+    "lolomo": {
+      "android": [
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_GAME_300X250",
+          "adSpotKey": "y1vmxqu6",
+          "appLocation": "lolomo",
+          "appLocationIndex": 2,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ],
+      "ios": [
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_GAME_300X250",
+          "adSpotKey": "eg6w2o7y",
+          "appLocationIndex": 2,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 1,
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ]
+    },
+    "footer": {
+      "android": [
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_GAME_Footer_320x50",
+          "adSpotKey": "fh2vti75",
+          "appLocation": "footer",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ],
+      "ios": [
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_GAME_Footer_320X50",
+          "adSpotKey": "a47s9qlj",
+          "appLocation": "footer",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "ios",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ]
+    }
+  },
+  "production": {
+    "below-player": {
+      "android": [
+        {
+          "adSpotName": "PlanetMarathi_Android_Banner_BP_320X50",
+          "adSpotKey": "crhejy5z",
+          "appLocation": "below-player",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ],
+      "ios": [
+        {
+          "adSpotName": "PlanetMarathi_IOS_Banner_BP_320X50",
+          "adSpotKey": "1tz37nwy",
+          "appLocation": "below-player",
+          "appLocationIndex": 0,
+          "adHeight": 50,
+          "adWidth": 320,
+          "type": 1,
+          "platform": "ios",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ]
+    }
+  },
+  "player": {
+    "in-video": {
+      "android": [
+        {
+          "adSpotName": "PlanetMarathi_Android_InStream_Player",
+          "adSpotKey": "pvglrx38",
+          "appLocation": "in-video",
+          "appLocationIndex": 0,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 2,
+          "platform": "android",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ],
+      "ios": [
+        {
+          "adSpotName": "PlanetMarathi_IOS_InStream_Player",
+          "adSpotKey": "6pt9hmi8",
+          "appLocation": "in-video",
+          "appLocationIndex": 0,
+          "adHeight": 250,
+          "adWidth": 300,
+          "type": 2,
+          "platform": "ios",
+          "provider": "jio",
+          "adImageURL": "",
+          "adRedirect": ""
+        }
+      ]
+    }
+  }
+}
