@@ -45,7 +45,7 @@
       "ios": [
         {
           "adSpotName": "PlanetMarathi_IOS_Banner_BC_300X250",
-          "adSpotKey": "w4j70v8k",
+          "adSpotKey": "eg6w2o7y",
           "appLocation": "lolomo",
           "appLocationIndex": 0,
           "adHeight": 250,
@@ -58,7 +58,7 @@
         },
         {
           "adSpotName": "PlanetMarathi_IOS_Banner_BC2_300X250",
-          "adSpotKey": "w4j70v8k",
+          "adSpotKey": "eg6w2o7y",
           "appLocation": "lolomo",
           "appLocationIndex": 2,
           "adHeight": 250,
@@ -71,7 +71,7 @@
         },
         {
           "adSpotName": "PlanetMarathi_IOS_Banner_BC3_300X250",
-          "adSpotKey": "1z7k6c0g",
+          "adSpotKey": "eg6w2o7y",
           "appLocation": "lolomo",
           "appLocationIndex": 4,
           "adHeight": 250,
@@ -103,7 +103,7 @@
       "ios": [
         {
           "adSpotName": "PlanetMarathi_IOS_Banner_Footer_320X50",
-          "adSpotKey": "a47s9qlj",
+          "adSpotKey": "dp523j08",
           "appLocation": "footer",
           "appLocationIndex": 0,
           "adHeight": 50,
@@ -167,7 +167,7 @@
       "ios": [
         {
           "adSpotName": "PlanetMarathi_IOS_Banner_TVOD_Footer_320X50",
-          "adSpotKey": "a47s9qlj",
+          "adSpotKey": "dp523j08",
           "appLocation": "footer",
           "appLocationIndex": 0,
           "adHeight": 50,
@@ -201,7 +201,7 @@
       "ios": [
         {
           "adSpotName": "PlanetMarathi_IOS_Banner_Upcoming_320X50",
-          "adSpotKey": "a47s9qlj",
+          "adSpotKey": "dp523j08",
           "appLocation": "upcoming",
           "appLocationIndex": 0,
           "adHeight": 50,
@@ -265,7 +265,7 @@
       "ios": [
         {
           "adSpotName": "PlanetMarathi_IOS_Banner_GAME_Footer_320X50",
-          "adSpotKey": "a47s9qlj",
+          "adSpotKey": "dp523j08",
           "appLocation": "footer",
           "appLocationIndex": 0,
           "adHeight": 50,
@@ -299,7 +299,7 @@
       "ios": [
         {
           "adSpotName": "PlanetMarathi_IOS_Banner_BP_320X50",
-          "adSpotKey": "1tz37nwy",
+          "adSpotKey": "dp523j08",
           "appLocation": "below-player",
           "appLocationIndex": 0,
           "adHeight": 50,
@@ -333,7 +333,7 @@
       "ios": [
         {
           "adSpotName": "PlanetMarathi_IOS_InStream_Player",
-          "adSpotKey": "6pt9hmi8",
+          "adSpotKey": "ime6sry9",
           "appLocation": "in-video",
           "appLocationIndex": 0,
           "adHeight": 250,
